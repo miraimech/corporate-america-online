@@ -17,7 +17,7 @@ if not os.path.exists(PLAY_PATH):
 if not os.path.exists(LOGS_PATH):
     os.makedirs(LOGS_PATH, exist_ok=True)
 
-logging.basicConfig(filename=os.path.join(LOGS_PATH, 'buy.log'), level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filemode='w')
+logging.basicConfig(filename=os.path.join(LOGS_PATH, 'buyalert.log'), level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filemode='w')
 
 class RemoteDataError(Exception):
     pass
