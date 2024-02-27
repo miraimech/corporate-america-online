@@ -1,0 +1,20 @@
+[
+    {
+        "results_84_title": "Patent Extension Regulatory Review Period: Rybrevant "
+    },
+    {
+        "results_84_toc_doc": "Rybrevant"
+    },
+    {
+        "results_84_toc_subject": "Patent Extension Regulatory Review Period:"
+    },
+    {
+        "results_84_type": "Notice"
+    },
+    {
+        "results_85_agencies_0_id": 178
+    },
+    {
+        "results_85_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/178"
+    }
+]

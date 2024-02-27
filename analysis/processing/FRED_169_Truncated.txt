@@ -1,0 +1,23 @@
+[
+    {
+        "releases_217_press_release": true
+    },
+    {
+        "releases_217_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_217_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_218_id": 378
+    },
+    {
+        "releases_218_link": "https://apps.newyorkfed.org/markets/autorates/fed%20funds"
+    },
+    {
+        "releases_218_name": "Federal Funds Data"
+    },
+    {
+        "releases_218_press_release": false
+    }
+]

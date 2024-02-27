@@ -1,0 +1,26 @@
+[
+    {
+        "releases_57_id": 112
+    },
+    {
+        "releases_57_link": "http://www.bls.gov/sae"
+    },
+    {
+        "releases_57_name": "State Employment and Unemployment"
+    },
+    {
+        "releases_57_press_release": true
+    },
+    {
+        "releases_57_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_57_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_58_id": 113
+    },
+    {
+        "releases_58_link": "http://www.bls.gov/sae/"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_133_pdf_file_size": 94136
+    },
+    {
+        "results_133_pdf_updated_at": "2024-02-26T08:45:35.000-05:00"
+    },
+    {
+        "results_133_pdf_url": "https://public-inspection.federalregister.gov/2024-04024.pdf"
+    },
+    {
+        "results_133_publication_date": "2024-02-27"
+    },
+    {
+        "results_133_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/024.txt"
+    }
+]

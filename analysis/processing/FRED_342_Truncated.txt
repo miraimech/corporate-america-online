@@ -1,0 +1,26 @@
+[
+    {
+        "releases_52_id": 106
+    },
+    {
+        "releases_52_name": "M2 Own Rate"
+    },
+    {
+        "releases_52_press_release": false
+    },
+    {
+        "releases_52_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_52_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_53_id": 107
+    },
+    {
+        "releases_53_link": "https://www.bls.gov/productivity/home.htm"
+    },
+    {
+        "releases_53_name": "Total Factor Productivity for Major Industries"
+    }
+]

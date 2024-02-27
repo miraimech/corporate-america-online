@@ -1,0 +1,11 @@
+[
+    {
+        "releases_291_notes": "The Quarterly Banking Profile is a quarterly publication that provides the earliest comprehensive summary of financial results for all FDIC-insured institutions.\r\n\r\nSee Notes to Users at https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/timeseries/qbpnot.pdf for more information."
+    },
+    {
+        "releases_291_press_release": true
+    },
+    {
+        "releases_291_realtime_end": "2024-02-26"
+    }
+]

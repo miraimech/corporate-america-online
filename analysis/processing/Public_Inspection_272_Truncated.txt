@@ -1,0 +1,20 @@
+[
+    {
+        "results_142_agency_names_0": "Federal Energy Regulatory Commission"
+    },
+    {
+        "results_142_document_number": "2024-04037"
+    },
+    {
+        "results_142_editorial_note": null
+    },
+    {
+        "results_142_excerpts": null
+    },
+    {
+        "results_142_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_142_filing_type": "regular"
+    }
+]

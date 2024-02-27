@@ -1,0 +1,17 @@
+[
+    {
+        "results_24_toc_doc": "West Coast Salmon Fisheries; Amendment 24 to the Pacific Coast Salmon Fishery Management Plan"
+    },
+    {
+        "results_24_toc_subject": "Fisheries off West Coast States:"
+    },
+    {
+        "results_24_type": "Rule"
+    },
+    {
+        "results_25_agencies_0_id": 184
+    },
+    {
+        "results_25_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/184"
+    }
+]

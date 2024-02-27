@@ -1,0 +1,20 @@
+[
+    {
+        "releases_243_press_release": false
+    },
+    {
+        "releases_243_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_243_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_244_id": 415
+    },
+    {
+        "releases_244_link": "https://www.census.gov/programs-surveys/acs/"
+    },
+    {
+        "releases_244_name": "Mean Commute Time"
+    }
+]

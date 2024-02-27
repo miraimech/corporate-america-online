@@ -1,0 +1,23 @@
+[
+    {
+        "releases_282_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_282_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_283_id": 472
+    },
+    {
+        "releases_283_link": "https://research.stlouisfed.org/wp/more/2020-016"
+    },
+    {
+        "releases_283_name": "Daily Federal Funds Rate"
+    },
+    {
+        "releases_283_press_release": false
+    },
+    {
+        "releases_283_realtime_end": "2024-02-26"
+    }
+]

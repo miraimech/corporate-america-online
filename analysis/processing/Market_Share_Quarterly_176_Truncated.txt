@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_23_securityType": "CORPORATE SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_others_24_dailyAvgVolInMillions": 1492.2
+    },
+    {
+        "pd_marketshare_quarterly_others_24_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_24_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_24_percentFirstQuintMktShare": "63.68"
+    }
+]

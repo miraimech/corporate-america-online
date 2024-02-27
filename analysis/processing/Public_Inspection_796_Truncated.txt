@@ -1,0 +1,17 @@
+[
+    {
+        "results_88_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/402"
+    },
+    {
+        "results_88_agencies_0_name": "Patent and Trademark Office"
+    },
+    {
+        "results_88_agencies_0_parent_id": 54
+    },
+    {
+        "results_88_agencies_0_raw_name": "Patent and Trademark Office"
+    },
+    {
+        "results_88_agencies_0_slug": "patent-and-trademark-office"
+    }
+]

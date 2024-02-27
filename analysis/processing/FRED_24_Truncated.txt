@@ -1,0 +1,8 @@
+[
+    {
+        "releases_119_link": "http://data.imf.org/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47"
+    },
+    {
+        "releases_119_name": "Financial Soundness Indicators"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "releases_284_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_285_id": 476
+    },
+    {
+        "releases_285_link": "http://press.indeed.com/"
+    },
+    {
+        "releases_285_name": "Job Postings on Indeed"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_108_publication_date": "2024-02-27"
+    },
+    {
+        "results_108_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/992.txt"
+    },
+    {
+        "results_108_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_108_subject_2": "Center for Scientific Review"
+    },
+    {
+        "results_108_subject_3": null
+    }
+]

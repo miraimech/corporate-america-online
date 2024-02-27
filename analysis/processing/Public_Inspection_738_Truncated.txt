@@ -1,0 +1,20 @@
+[
+    {
+        "results_79_agencies_0_url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission"
+    },
+    {
+        "results_79_agency_names_0": "Securities and Exchange Commission"
+    },
+    {
+        "results_79_document_number": "2024-03953"
+    },
+    {
+        "results_79_editorial_note": null
+    },
+    {
+        "results_79_excerpts": null
+    },
+    {
+        "results_79_filed_at": "2024-02-26T08:45:00.000-05:00"
+    }
+]

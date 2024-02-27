@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_17_percentSecondQuintRange": "1.34 - 6.48"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_17_percentThirdQuintMktShare": "4.36"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_17_percentThirdQuintRange": "0.28 - 1.30"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_17_security": "SPECIFIED POOLS CASH TRANSACTIONS"
+    }
+]

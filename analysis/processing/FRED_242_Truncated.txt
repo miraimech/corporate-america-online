@@ -1,0 +1,5 @@
+[
+    {
+        "releases_265_notes": "The Large Bank Consumer Credit Data are based on FR Y-14M credit card and mortgage data provided by the largest financial institutions in the United States.\r\n\r\nThe respondent panel comprises U.S. bank holding companies, U.S. intermediate holding companies of foreign banking organizations, and covered savings and loan holding companies with $100 billion or more in total consolidated assets. These institutions are required to report credit card or first-lien mortgage data if portfolio balances exceed $5 billion or are material relative to Tier 1 capital. Firms with over $100 billion in total consolidated assets that do not meet these thresholds may also voluntarily provide FR Y-14M data. The reporting provides users with aggregate data on credit card and first-lien mortgages including portfolio composition, credit performance, origination activities, credit card payment behavior, and credit card line utilization. This publication will be released on a quarterly frequency."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "releases_103_link": "http://www.bls.gov/fls/flscomparelf.htm"
+    },
+    {
+        "releases_103_name": "International Comparisons of Annual Labor Force Statistics"
+    },
+    {
+        "releases_103_press_release": false
+    },
+    {
+        "releases_103_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_103_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_104_id": 204
+    }
+]

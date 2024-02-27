@@ -1,0 +1,14 @@
+[
+    {
+        "results_15_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_15_filing_type": "regular"
+    },
+    {
+        "results_15_html_url": "https://www.federalregister.gov/public-inspection/2024-03881/expansion-and-proposed-restructuring-of-the-digital-opportunity-demonstration-program"
+    },
+    {
+        "results_15_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03881"
+    }
+]

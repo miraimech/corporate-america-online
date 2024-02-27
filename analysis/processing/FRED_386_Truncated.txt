@@ -1,0 +1,23 @@
+[
+    {
+        "releases_99_id": 199
+    },
+    {
+        "releases_99_link": "https://us.spindices.com/index-family/sp-corelogic-case-shiller/sp-corelogic-case-shiller-composite"
+    },
+    {
+        "releases_99_name": "S&P CoreLogic Case-Shiller Home Price Indices"
+    },
+    {
+        "releases_99_press_release": true
+    },
+    {
+        "releases_99_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_99_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_9_id": 20
+    }
+]

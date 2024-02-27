@@ -1,0 +1,8 @@
+[
+    {
+        "releases_220_link": "https://www.dallasfed.org/research/econdata/rtwvd.aspx"
+    },
+    {
+        "releases_220_name": "Real Trade-Weighted Value of the Dollar by U.S. State"
+    }
+]

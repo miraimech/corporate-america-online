@@ -1,0 +1,17 @@
+[
+    {
+        "results_54_publication_date": "2024-02-27"
+    },
+    {
+        "results_54_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/923.txt"
+    },
+    {
+        "results_54_subject_1": "Fisheries of the Exclusive Economic Zone:"
+    },
+    {
+        "results_54_subject_2": "Bering Sea and Aleutian Islands Crab Rationalization Program"
+    },
+    {
+        "results_54_subject_3": null
+    }
+]

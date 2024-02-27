@@ -1,0 +1,26 @@
+[
+    {
+        "releases_15_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_160_id": 304
+    },
+    {
+        "releases_160_name": "Interest Rate Spreads"
+    },
+    {
+        "releases_160_press_release": false
+    },
+    {
+        "releases_160_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_160_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_161_id": 305
+    },
+    {
+        "releases_161_link": "https://data.snb.ch/en"
+    }
+]

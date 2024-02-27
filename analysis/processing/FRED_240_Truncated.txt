@@ -1,0 +1,23 @@
+[
+    {
+        "releases_263_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_263_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_264_id": 446
+    },
+    {
+        "releases_264_link": "https://www.bls.gov/lau/rdscnp16.htm"
+    },
+    {
+        "releases_264_name": "Labor Force Participation by State"
+    },
+    {
+        "releases_264_press_release": true
+    },
+    {
+        "releases_264_realtime_end": "2024-02-26"
+    }
+]

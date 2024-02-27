@@ -1,0 +1,23 @@
+[
+    {
+        "releases_224_id": 387
+    },
+    {
+        "releases_224_link": "https://www.dol.gov/whd/minwage/america.htm"
+    },
+    {
+        "releases_224_name": "Minimum Wage Rate by State"
+    },
+    {
+        "releases_224_press_release": false
+    },
+    {
+        "releases_224_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_224_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_225_id": 388
+    }
+]

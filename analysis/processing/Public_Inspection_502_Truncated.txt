@@ -1,0 +1,20 @@
+[
+    {
+        "results_40_page_views_last_updated": "2024-02-27 04:15:07 -0500"
+    },
+    {
+        "results_40_pdf_file_name": "2024-03907_PI.pdf"
+    },
+    {
+        "results_40_pdf_file_size": 86560
+    },
+    {
+        "results_40_pdf_updated_at": "2024-02-26T08:45:19.000-05:00"
+    },
+    {
+        "results_40_pdf_url": "https://public-inspection.federalregister.gov/2024-03907.pdf"
+    },
+    {
+        "results_40_publication_date": "2024-02-27"
+    }
+]

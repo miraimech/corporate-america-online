@@ -1,0 +1,17 @@
+[
+    {
+        "results_27_html_url": "https://www.federalregister.gov/public-inspection/2024-03893/pesticide-product-registration-applications-for-new-active-ingredients-january-2024"
+    },
+    {
+        "results_27_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03893"
+    },
+    {
+        "results_27_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_27_num_pages": 4
+    },
+    {
+        "results_27_page_views_count": 24
+    }
+]

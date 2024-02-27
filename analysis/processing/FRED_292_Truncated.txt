@@ -1,0 +1,17 @@
+[
+    {
+        "releases_296_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_296_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_297_id": 488
+    },
+    {
+        "releases_297_link": "https://ibrc.kelley.iu.edu/analysis/bbki/index.html"
+    },
+    {
+        "releases_297_name": "Brave-Butters-Kelley Indexes"
+    }
+]

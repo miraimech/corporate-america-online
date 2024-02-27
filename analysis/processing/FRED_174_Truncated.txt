@@ -1,0 +1,20 @@
+[
+    {
+        "releases_220_press_release": true
+    },
+    {
+        "releases_220_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_220_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_221_id": 383
+    },
+    {
+        "releases_221_link": "http://www.dallasfed.org/research/econdata/govdebt.cfm"
+    },
+    {
+        "releases_221_name": "Market Value of U.S. Government Debt"
+    }
+]

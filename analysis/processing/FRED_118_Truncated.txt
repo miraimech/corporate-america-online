@@ -1,0 +1,17 @@
+[
+    {
+        "releases_187_notes": "Prices are based on delivery at the Henry Hub in Louisiana. Official daily closing prices at 2:30 p.m. from the trading floor of the New York Mercantile Exchange (NYMEX) for a specific delivery month."
+    },
+    {
+        "releases_187_press_release": true
+    },
+    {
+        "releases_187_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_187_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_188_id": 343
+    }
+]

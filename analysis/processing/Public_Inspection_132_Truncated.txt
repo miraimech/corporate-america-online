@@ -1,0 +1,23 @@
+[
+    {
+        "results_11_subject_1": "Airspace Designations and Reporting Points:"
+    },
+    {
+        "results_11_subject_2": "Dixon, IL"
+    },
+    {
+        "results_11_subject_3": null
+    },
+    {
+        "results_11_title": "Airspace Designations and Reporting Points: Dixon, IL "
+    },
+    {
+        "results_11_toc_doc": "Dixon, IL"
+    },
+    {
+        "results_11_toc_subject": "Airspace Designations and Reporting Points:"
+    },
+    {
+        "results_11_type": "Proposed Rule"
+    }
+]

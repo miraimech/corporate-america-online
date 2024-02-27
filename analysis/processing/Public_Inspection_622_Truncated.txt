@@ -1,0 +1,11 @@
+[
+    {
+        "results_5_subject_2": "Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address"
+    },
+    {
+        "results_5_subject_3": null
+    },
+    {
+        "results_5_title": "New Animal Drugs: Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address "
+    }
+]

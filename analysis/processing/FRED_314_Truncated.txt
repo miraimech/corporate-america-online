@@ -1,0 +1,20 @@
+[
+    {
+        "releases_308_press_release": true
+    },
+    {
+        "releases_308_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_308_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_309_id": 571
+    },
+    {
+        "releases_309_link": "https://www.federalreserve.gov/data/scoos.htm"
+    },
+    {
+        "releases_309_name": "Senior Credit Officer Opinion Survey on Dealer Financing Terms"
+    }
+]

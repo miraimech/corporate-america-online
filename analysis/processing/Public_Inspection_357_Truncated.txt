@@ -1,0 +1,14 @@
+[
+    {
+        "results_19_agencies_0_raw_name": "National Oceanic and Atmospheric Administration"
+    },
+    {
+        "results_19_agencies_0_slug": "national-oceanic-and-atmospheric-administration"
+    },
+    {
+        "results_19_agencies_0_url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration"
+    },
+    {
+        "results_19_agency_names_0": "National Oceanic and Atmospheric Administration"
+    }
+]

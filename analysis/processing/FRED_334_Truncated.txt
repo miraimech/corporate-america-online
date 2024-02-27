@@ -1,0 +1,23 @@
+[
+    {
+        "releases_43_name": "Manufacturer's Shipments, Inventories, and Orders (M3) Survey"
+    },
+    {
+        "releases_43_press_release": true
+    },
+    {
+        "releases_43_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_43_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_44_id": 97
+    },
+    {
+        "releases_44_link": "http://www.census.gov/construction/nrs/"
+    },
+    {
+        "releases_44_name": "New Residential Sales"
+    }
+]

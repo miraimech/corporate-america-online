@@ -1,0 +1,26 @@
+[
+    {
+        "releases_136_press_release": true
+    },
+    {
+        "releases_136_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_136_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_137_id": 269
+    },
+    {
+        "releases_137_link": "http://www.esri.cao.go.jp/en/sna/menu.html"
+    },
+    {
+        "releases_137_name": "National Accounts of Japan"
+    },
+    {
+        "releases_137_press_release": true
+    },
+    {
+        "releases_137_realtime_end": "2024-02-26"
+    }
+]

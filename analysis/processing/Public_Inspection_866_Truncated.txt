@@ -1,0 +1,17 @@
+[
+    {
+        "results_99_publication_date": "2024-02-27"
+    },
+    {
+        "results_99_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/980.txt"
+    },
+    {
+        "results_99_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals"
+    },
+    {
+        "results_99_subject_2": null
+    },
+    {
+        "results_99_subject_3": null
+    }
+]

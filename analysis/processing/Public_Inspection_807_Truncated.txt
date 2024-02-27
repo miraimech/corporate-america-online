@@ -1,0 +1,17 @@
+[
+    {
+        "results_89_toc_doc": "Tribal Child Support Enforcement Direct Funding Requests"
+    },
+    {
+        "results_89_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_89_type": "Notice"
+    },
+    {
+        "results_8_agencies_0_id": 241
+    },
+    {
+        "results_8_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/241"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_89_agencies_0_raw_name": "Children and Families Administration"
+    },
+    {
+        "results_89_agencies_0_slug": "children-and-families-administration"
+    },
+    {
+        "results_89_agencies_0_url": "https://www.federalregister.gov/agencies/children-and-families-administration"
+    },
+    {
+        "results_89_agency_names_0": "Children and Families Administration"
+    },
+    {
+        "results_89_document_number": "2024-03968"
+    }
+]

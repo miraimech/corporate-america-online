@@ -1,0 +1,26 @@
+[
+    {
+        "releases_17_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_180_id": 331
+    },
+    {
+        "releases_180_link": "https://www.bea.gov/data/gdp/gdp-industry"
+    },
+    {
+        "releases_180_name": "Gross Domestic Product by Industry"
+    },
+    {
+        "releases_180_press_release": true
+    },
+    {
+        "releases_180_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_180_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_181_id": 332
+    }
+]

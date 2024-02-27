@@ -1,0 +1,17 @@
+[
+    {
+        "releases_226_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_227_id": 391
+    },
+    {
+        "releases_227_link": "https://www.bea.gov/data/consumer-spending/state"
+    },
+    {
+        "releases_227_name": "Personal Consumption Expenditures by State"
+    },
+    {
+        "releases_227_notes": "Release contains both per capita personal consumption expenditures and personal consumption expenditures by state. This data set also contains sector based data each state."
+    }
+]

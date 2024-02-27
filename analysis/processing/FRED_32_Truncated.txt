@@ -1,0 +1,23 @@
+[
+    {
+        "releases_122_press_release": false
+    },
+    {
+        "releases_122_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_122_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_123_id": 245
+    },
+    {
+        "releases_123_link": "http://www.federalreserve.gov/releases/h10/summary/default.htm"
+    },
+    {
+        "releases_123_name": "Summary Measures of the Foreign Exchange Value of the Dollar"
+    },
+    {
+        "releases_123_press_release": true
+    }
+]

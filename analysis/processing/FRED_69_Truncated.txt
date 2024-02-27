@@ -1,0 +1,14 @@
+[
+    {
+        "releases_153_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_154_id": 292
+    },
+    {
+        "releases_154_link": "https://www.chicagofed.org/publications/cfmmi/index"
+    },
+    {
+        "releases_154_name": "Chicago Fed Midwest Manufacturing Index"
+    }
+]

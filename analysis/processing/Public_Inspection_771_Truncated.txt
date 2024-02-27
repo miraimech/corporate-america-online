@@ -1,0 +1,23 @@
+[
+    {
+        "results_83_publication_date": "2024-02-27"
+    },
+    {
+        "results_83_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/960.txt"
+    },
+    {
+        "results_83_subject_1": "Disaster Declaration:"
+    },
+    {
+        "results_83_subject_2": "North Dakota"
+    },
+    {
+        "results_83_subject_3": null
+    },
+    {
+        "results_83_title": "Disaster Declaration: North Dakota "
+    },
+    {
+        "results_83_toc_doc": "North Dakota"
+    }
+]

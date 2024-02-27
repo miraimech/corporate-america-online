@@ -1,0 +1,20 @@
+[
+    {
+        "results_110_subject_3": null
+    },
+    {
+        "results_110_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals  "
+    },
+    {
+        "results_110_toc_doc": "Agency Information Collection Activities; Proposals, Submissions, and Approvals"
+    },
+    {
+        "results_110_toc_subject": ""
+    },
+    {
+        "results_110_type": "Notice"
+    },
+    {
+        "results_111_agencies_0_id": 103
+    }
+]

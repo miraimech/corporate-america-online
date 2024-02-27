@@ -1,0 +1,5 @@
+[
+    {
+        "releases_286_notes": "The Monthly State Retail Sales (MSRS) is the Census Bureau's experimental data product featuring modeled state-level retail sales. This is a blended data product using Monthly Retail Trade Survey data, administrative data, and third-party data. Year-over-year percent changes are available for Total Retail Sales excluding Nonstore Retailers as well as 11 retail North American Industry Classification System (NAICS) retail subsectors. These data are provided by state and NAICS codes beginning with January 2019. The Census Bureau plans to continue to improve the methodology to be able to publish more data in the future.\r\n\r\nUsers are encouraged to read the overview at https://www.census.gov/retail/mrts/www/statedata/msrs_overview.pdf"
+    }
+]

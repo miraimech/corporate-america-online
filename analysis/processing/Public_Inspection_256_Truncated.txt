@@ -1,0 +1,17 @@
+[
+    {
+        "results_13_filing_type": "regular"
+    },
+    {
+        "results_13_html_url": "https://www.federalregister.gov/public-inspection/2024-03878/airspace-designations-and-reporting-points-vicinity-of-kodiak-island"
+    },
+    {
+        "results_13_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03878"
+    },
+    {
+        "results_13_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_13_num_pages": 5
+    }
+]

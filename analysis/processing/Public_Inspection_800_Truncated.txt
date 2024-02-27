@@ -1,0 +1,17 @@
+[
+    {
+        "results_88_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/967.txt"
+    },
+    {
+        "results_88_subject_1": "Guidance:"
+    },
+    {
+        "results_88_subject_2": "Making a Proper Determination of Obviousness"
+    },
+    {
+        "results_88_subject_3": null
+    },
+    {
+        "results_88_title": "Guidance: Making a Proper Determination of Obviousness "
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_27_agency_names_0": "Environmental Protection Agency"
+    },
+    {
+        "results_27_document_number": "2024-03893"
+    },
+    {
+        "results_27_editorial_note": null
+    },
+    {
+        "results_27_excerpts": null
+    },
+    {
+        "results_27_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_27_filing_type": "regular"
+    }
+]

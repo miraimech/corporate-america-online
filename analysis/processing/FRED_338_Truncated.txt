@@ -1,0 +1,23 @@
+[
+    {
+        "releases_48_link": "http://online.wsj.com/public/us"
+    },
+    {
+        "releases_48_name": "Wall Street Journal"
+    },
+    {
+        "releases_48_press_release": true
+    },
+    {
+        "releases_48_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_48_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_49_id": 103
+    },
+    {
+        "releases_49_link": "http://www.federalreserve.gov/monetarypolicy/discountrate.htm"
+    }
+]

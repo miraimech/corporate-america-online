@@ -1,0 +1,23 @@
+[
+    {
+        "releases_273_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_273_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_274_id": 460
+    },
+    {
+        "releases_274_link": "https://www.federalreserve.gov/releases/g17/mvsf.htm"
+    },
+    {
+        "releases_274_name": "Seasonal Factors for Domestic Auto and Truck Production"
+    },
+    {
+        "releases_274_press_release": true
+    },
+    {
+        "releases_274_realtime_end": "2024-02-26"
+    }
+]

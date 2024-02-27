@@ -1,0 +1,23 @@
+[
+    {
+        "releases_233_press_release": false
+    },
+    {
+        "releases_233_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_233_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_234_id": 401
+    },
+    {
+        "releases_234_link": "https://www.irs.gov/statistics/soi-tax-stats-historical-data-tables"
+    },
+    {
+        "releases_234_name": "SOI Tax Stats - Historical Data Tables"
+    },
+    {
+        "releases_234_press_release": false
+    }
+]

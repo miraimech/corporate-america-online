@@ -1,0 +1,23 @@
+[
+    {
+        "releases_265_press_release": true
+    },
+    {
+        "releases_265_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_265_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_266_id": 449
+    },
+    {
+        "releases_266_link": "https://www.census.gov/foreign-trade/statistics/state/index.html"
+    },
+    {
+        "releases_266_name": "U.S. Trade in Goods by State, by NAICS-Based Product"
+    },
+    {
+        "releases_266_press_release": true
+    }
+]

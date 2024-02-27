@@ -1,0 +1,17 @@
+[
+    {
+        "results_149_title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Russellville Solar LLC "
+    },
+    {
+        "results_149_toc_doc": "Russellville Solar LLC"
+    },
+    {
+        "results_149_toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_149_type": "Notice"
+    },
+    {
+        "results_14_agencies_0_id": 159
+    }
+]

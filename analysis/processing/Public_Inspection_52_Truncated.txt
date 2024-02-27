@@ -1,0 +1,23 @@
+[
+    {
+        "results_107_subject_1": "Controlled Carriers under the Shipping Act"
+    },
+    {
+        "results_107_subject_2": null
+    },
+    {
+        "results_107_subject_3": null
+    },
+    {
+        "results_107_title": "Controlled Carriers under the Shipping Act  "
+    },
+    {
+        "results_107_toc_doc": "Controlled Carriers under the Shipping Act"
+    },
+    {
+        "results_107_toc_subject": ""
+    },
+    {
+        "results_107_type": "Notice"
+    }
+]

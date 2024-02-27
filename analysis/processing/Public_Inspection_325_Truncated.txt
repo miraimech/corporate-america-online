@@ -1,0 +1,20 @@
+[
+    {
+        "results_14_publication_date": "2024-02-27"
+    },
+    {
+        "results_14_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/879.txt"
+    },
+    {
+        "results_14_subject_1": "Airspace Designations and Reporting Points:"
+    },
+    {
+        "results_14_subject_2": "Hawaiian Islands"
+    },
+    {
+        "results_14_subject_3": null
+    },
+    {
+        "results_14_title": "Airspace Designations and Reporting Points: Hawaiian Islands "
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_11_percentFifthQuintRange": "<=0.02"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_11_percentFirstQuintMktShare": "62.69"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_11_percentFirstQuintRange": ">=8.56"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_11_percentFourthQuintMktShare": "1.12"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_11_percentFourthQuintRange": "0.02 - 0.50"
+    }
+]

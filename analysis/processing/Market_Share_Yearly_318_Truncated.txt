@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_5_percentThirdQuintMktShare": "12.03"
+    },
+    {
+        "pd_marketshare_ytd_totals_5_percentThirdQuintRange": "1.82 - 3.06"
+    },
+    {
+        "pd_marketshare_ytd_totals_5_security": "COUPONS DUE IN > 6 YRS, BUT <= 7 YRS"
+    },
+    {
+        "pd_marketshare_ytd_totals_5_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_ytd_totals_6_dailyAvgVolInMillions": 81829.6
+    }
+]

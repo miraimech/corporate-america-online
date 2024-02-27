@@ -1,0 +1,20 @@
+[
+    {
+        "results_10_publication_date": "2024-02-27"
+    },
+    {
+        "results_10_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/835.txt"
+    },
+    {
+        "results_10_subject_1": "Airspace Designations and Reporting Points:"
+    },
+    {
+        "results_10_subject_2": "Maple Lake, MN"
+    },
+    {
+        "results_10_subject_3": null
+    },
+    {
+        "results_10_title": "Airspace Designations and Reporting Points: Maple Lake, MN "
+    }
+]

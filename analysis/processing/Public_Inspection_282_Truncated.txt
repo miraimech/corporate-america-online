@@ -1,0 +1,17 @@
+[
+    {
+        "results_143_title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Aron Energy Prepay 36 LLC "
+    },
+    {
+        "results_143_toc_doc": "Aron Energy Prepay 36 LLC"
+    },
+    {
+        "results_143_toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_143_type": "Notice"
+    },
+    {
+        "results_144_agencies_0_id": 210
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_57_subject_2": "Foxglove Solar Project, LLC"
+    },
+    {
+        "results_57_subject_3": null
+    },
+    {
+        "results_57_title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Foxglove Solar Project, LLC "
+    },
+    {
+        "results_57_toc_doc": "Foxglove Solar Project, LLC"
+    },
+    {
+        "results_57_toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    }
+]

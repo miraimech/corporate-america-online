@@ -1,0 +1,17 @@
+[
+    {
+        "results_80_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Annual Tank Car Survey "
+    },
+    {
+        "results_80_toc_doc": "Annual Tank Car Survey"
+    },
+    {
+        "results_80_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_80_type": "Notice"
+    },
+    {
+        "results_81_agencies_0_id": 145
+    }
+]

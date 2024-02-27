@@ -1,0 +1,17 @@
+[
+    {
+        "results_51_publication_date": "2024-02-27"
+    },
+    {
+        "results_51_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/919.txt"
+    },
+    {
+        "results_51_subject_1": "Filing:"
+    },
+    {
+        "results_51_subject_2": "Constellation Energy Generation; Safe Harbor Water Power Corp.; BIF III Holtwood, LLC"
+    },
+    {
+        "results_51_subject_3": null
+    }
+]

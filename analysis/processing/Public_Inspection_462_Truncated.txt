@@ -1,0 +1,17 @@
+[
+    {
+        "results_34_subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:"
+    },
+    {
+        "results_34_subject_2": "Cboe EDGX Exchange, Inc."
+    },
+    {
+        "results_34_subject_3": null
+    },
+    {
+        "results_34_title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe EDGX Exchange, Inc. "
+    },
+    {
+        "results_34_toc_doc": "Cboe EDGX Exchange, Inc."
+    }
+]

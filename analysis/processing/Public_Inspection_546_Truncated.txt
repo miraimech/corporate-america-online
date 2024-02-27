@@ -1,0 +1,17 @@
+[
+    {
+        "results_48_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_48_filing_type": "regular"
+    },
+    {
+        "results_48_html_url": "https://www.federalregister.gov/public-inspection/2024-03916/hearings-meetings-proceedings-etc-center-for-scientific-review"
+    },
+    {
+        "results_48_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03916"
+    },
+    {
+        "results_48_last_public_inspection_issue": "2024-02-26"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "releases_58_name": "Metropolitan Area Employment and Unemployment"
+    },
+    {
+        "releases_58_press_release": true
+    },
+    {
+        "releases_58_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_58_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_59_id": 116
+    },
+    {
+        "releases_59_link": "http://www.bls.gov/lau/home.htm"
+    },
+    {
+        "releases_59_name": "Unemployment in States and Local Areas (all other areas)"
+    }
+]

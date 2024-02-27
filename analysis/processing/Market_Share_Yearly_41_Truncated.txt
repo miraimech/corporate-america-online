@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_securityType": "NON-AGENCY MBS"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_22_dailyAvgVolInMillions": 3.0
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_22_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_22_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_22_percentFirstQuintMktShare": "92.74"
+    }
+]

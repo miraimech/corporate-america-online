@@ -1,0 +1,23 @@
+[
+    {
+        "releases_54_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_54_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_55_id": 110
+    },
+    {
+        "releases_55_link": "https://www.bea.gov/data/income-saving/personal-income-by-state"
+    },
+    {
+        "releases_55_name": "Personal Income by State"
+    },
+    {
+        "releases_55_press_release": true
+    },
+    {
+        "releases_55_realtime_end": "2024-02-26"
+    }
+]

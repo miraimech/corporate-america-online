@@ -1,0 +1,26 @@
+[
+    {
+        "releases_141_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_141_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_142_id": 279
+    },
+    {
+        "releases_142_link": "http://www.policyuncertainty.com/"
+    },
+    {
+        "releases_142_name": "Economic Policy Uncertainty"
+    },
+    {
+        "releases_142_press_release": false
+    },
+    {
+        "releases_142_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_142_realtime_start": "2024-02-26"
+    }
+]

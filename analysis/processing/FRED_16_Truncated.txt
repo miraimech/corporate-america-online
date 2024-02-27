@@ -1,0 +1,23 @@
+[
+    {
+        "releases_111_link": "https://www.chicagofed.org/research/data/cfnai/current-data"
+    },
+    {
+        "releases_111_name": "Chicago Fed National Activity Index"
+    },
+    {
+        "releases_111_press_release": true
+    },
+    {
+        "releases_111_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_111_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_112_id": 221
+    },
+    {
+        "releases_112_link": "https://www.chicagofed.org/publications/nfci/index"
+    }
+]

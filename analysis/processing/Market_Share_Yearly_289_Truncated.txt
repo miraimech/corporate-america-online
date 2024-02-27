@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_32_percentSecondQuintMktShare": "9.72"
+    },
+    {
+        "pd_marketshare_ytd_totals_32_percentSecondQuintRange": "0.40 - 3.23"
+    },
+    {
+        "pd_marketshare_ytd_totals_32_percentThirdQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_ytd_totals_32_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_ytd_totals_32_security": "OBLIGATIONS DUE IN <= 13 MNTHS"
+    }
+]

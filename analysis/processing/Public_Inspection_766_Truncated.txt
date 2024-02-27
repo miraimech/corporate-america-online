@@ -1,0 +1,11 @@
+[
+    {
+        "results_82_title": "Charter Amendments, Establishments, Renewals and Terminations: Federal Advisory Committee Act; Communications Security, Reliability, and Interoperability Council "
+    },
+    {
+        "results_82_toc_doc": "Federal Advisory Committee Act; Communications Security, Reliability, and Interoperability Council"
+    },
+    {
+        "results_82_toc_subject": "Charter Amendments, Establishments, Renewals and Terminations:"
+    }
+]

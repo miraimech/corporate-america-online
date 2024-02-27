@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_23_percentSecondQuintMktShare": "21.82"
+    },
+    {
+        "pd_marketshare_ytd_others_23_percentSecondQuintRange": "0.68 - 7.87"
+    },
+    {
+        "pd_marketshare_ytd_others_23_percentThirdQuintMktShare": "0.83"
+    },
+    {
+        "pd_marketshare_ytd_others_23_percentThirdQuintRange": "0.00 - 0.65"
+    },
+    {
+        "pd_marketshare_ytd_others_23_security": "COMMERCIAL PAPER"
+    }
+]

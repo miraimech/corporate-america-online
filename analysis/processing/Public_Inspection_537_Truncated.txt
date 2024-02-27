@@ -1,0 +1,20 @@
+[
+    {
+        "results_46_pdf_url": "https://public-inspection.federalregister.gov/2024-03914.pdf"
+    },
+    {
+        "results_46_publication_date": "2024-02-27"
+    },
+    {
+        "results_46_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/914.txt"
+    },
+    {
+        "results_46_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_46_subject_2": "National Cancer Institute"
+    },
+    {
+        "results_46_subject_3": null
+    }
+]

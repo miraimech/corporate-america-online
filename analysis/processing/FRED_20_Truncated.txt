@@ -1,0 +1,20 @@
+[
+    {
+        "releases_115_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_115_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_116_id": 231
+    },
+    {
+        "releases_116_link": "http://www.federalreserve.gov/releases/chargeoff/default.htm"
+    },
+    {
+        "releases_116_name": "Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks"
+    },
+    {
+        "releases_116_press_release": true
+    }
+]

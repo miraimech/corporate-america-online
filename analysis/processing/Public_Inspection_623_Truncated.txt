@@ -1,0 +1,17 @@
+[
+    {
+        "results_5_toc_doc": "Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address"
+    },
+    {
+        "results_5_toc_subject": "New Animal Drugs:"
+    },
+    {
+        "results_5_type": "Rule"
+    },
+    {
+        "results_60_agencies_0_id": 167
+    },
+    {
+        "results_60_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/167"
+    }
+]

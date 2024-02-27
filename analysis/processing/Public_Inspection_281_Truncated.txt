@@ -1,0 +1,17 @@
+[
+    {
+        "results_143_publication_date": "2024-02-27"
+    },
+    {
+        "results_143_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/038.txt"
+    },
+    {
+        "results_143_subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_143_subject_2": "Aron Energy Prepay 36 LLC"
+    },
+    {
+        "results_143_subject_3": null
+    }
+]

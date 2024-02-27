@@ -1,0 +1,20 @@
+[
+    {
+        "results_66_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_66_type": "Notice"
+    },
+    {
+        "results_67_agencies_0_id": 271
+    },
+    {
+        "results_67_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/271"
+    },
+    {
+        "results_67_agencies_0_name": "Labor Department"
+    },
+    {
+        "results_67_agencies_0_parent_id": null
+    }
+]

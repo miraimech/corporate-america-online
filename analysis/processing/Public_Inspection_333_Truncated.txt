@@ -1,0 +1,20 @@
+[
+    {
+        "results_15_agencies_0_slug": "housing-and-urban-development-department"
+    },
+    {
+        "results_15_agencies_0_url": "https://www.federalregister.gov/agencies/housing-and-urban-development-department"
+    },
+    {
+        "results_15_agency_names_0": "Housing and Urban Development Department"
+    },
+    {
+        "results_15_document_number": "2024-03881"
+    },
+    {
+        "results_15_editorial_note": null
+    },
+    {
+        "results_15_excerpts": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_3_agencies_0_parent_id": null
+    },
+    {
+        "results_3_agencies_0_raw_name": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+        "results_3_agencies_0_slug": "environmental-protection-agency"
+    },
+    {
+        "results_3_agencies_0_url": "https://www.federalregister.gov/agencies/environmental-protection-agency"
+    },
+    {
+        "results_3_agency_names_0": "Environmental Protection Agency"
+    },
+    {
+        "results_3_document_number": "2024-00366"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_31_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/466"
+    },
+    {
+        "results_31_agencies_0_name": "Securities and Exchange Commission"
+    },
+    {
+        "results_31_agencies_0_parent_id": null
+    },
+    {
+        "results_31_agencies_0_raw_name": "SECURITIES AND EXCHANGE COMMISSION"
+    },
+    {
+        "results_31_agencies_0_slug": "securities-and-exchange-commission"
+    }
+]

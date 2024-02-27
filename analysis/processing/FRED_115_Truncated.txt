@@ -1,0 +1,20 @@
+[
+    {
+        "releases_185_press_release": false
+    },
+    {
+        "releases_185_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_185_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_186_id": 341
+    },
+    {
+        "releases_186_link": "https://www.kansascityfed.org/data-and-trends/labor-market-conditions-indicators/"
+    },
+    {
+        "releases_186_name": "Kansas City Fed Labor Market Conditions Indicators"
+    }
+]

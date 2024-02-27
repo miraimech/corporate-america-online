@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_13_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_dailyAvgVolInMillions": 112.6
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentFifthQuintRange": "<=0.00"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "results_0_num_pages": 42
+    },
+    {
+        "results_0_page_views_count": 1860
+    },
+    {
+        "results_0_page_views_last_updated": "2024-02-27 04:15:07 -0500"
+    },
+    {
+        "results_0_pdf_file_name": "2024-03969_PI.pdf"
+    },
+    {
+        "results_0_pdf_file_size": 223461
+    },
+    {
+        "results_0_pdf_updated_at": "2024-02-23T08:45:31.000-05:00"
+    },
+    {
+        "results_0_pdf_url": "https://public-inspection.federalregister.gov/2024-03969.pdf"
+    }
+]

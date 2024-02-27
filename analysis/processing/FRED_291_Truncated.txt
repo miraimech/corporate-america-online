@@ -1,0 +1,23 @@
+[
+    {
+        "releases_295_press_release": false
+    },
+    {
+        "releases_295_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_295_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_296_id": 487
+    },
+    {
+        "releases_296_link": "https://www.dallasfed.org/research/igrea"
+    },
+    {
+        "releases_296_name": "Index of Global Real Economic Activity"
+    },
+    {
+        "releases_296_press_release": true
+    }
+]

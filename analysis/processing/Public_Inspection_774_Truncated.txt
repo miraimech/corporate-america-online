@@ -1,0 +1,17 @@
+[
+    {
+        "results_84_excerpts": null
+    },
+    {
+        "results_84_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_84_filing_type": "regular"
+    },
+    {
+        "results_84_html_url": "https://www.federalregister.gov/public-inspection/2024-03961/patent-extension-regulatory-review-period-rybrevant"
+    },
+    {
+        "results_84_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03961"
+    }
+]

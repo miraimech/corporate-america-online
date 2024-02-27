@@ -1,0 +1,5 @@
+[
+    {
+        "releases_186_notes": "The Kansas City Fed Labor Market Conditions Indicators (LMCI) are two monthly measures of labor market conditions based on 24 labor market variables. One indicator measures the level of activity in labor markets and the other indicator measures momentum in labor markets.\r\n\r\nA positive value indicates that labor market conditions are above their long-run average, while a negative value signifies that labor market conditions are below their long-run average."
+    }
+]

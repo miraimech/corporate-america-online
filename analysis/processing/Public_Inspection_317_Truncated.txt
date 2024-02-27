@@ -1,0 +1,17 @@
+[
+    {
+        "results_149_filing_type": "regular"
+    },
+    {
+        "results_149_html_url": "https://www.federalregister.gov/public-inspection/2024-04048/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations"
+    },
+    {
+        "results_149_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-04048"
+    },
+    {
+        "results_149_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_149_num_pages": 3
+    }
+]

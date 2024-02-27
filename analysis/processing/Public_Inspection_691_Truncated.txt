@@ -1,0 +1,20 @@
+[
+    {
+        "results_70_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_70_type": "Notice"
+    },
+    {
+        "results_71_agencies_0_id": 261
+    },
+    {
+        "results_71_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/261"
+    },
+    {
+        "results_71_agencies_0_name": "International Trade Administration"
+    },
+    {
+        "results_71_agencies_0_parent_id": 54
+    }
+]

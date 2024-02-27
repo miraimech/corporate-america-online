@@ -1,0 +1,23 @@
+[
+    {
+        "releases_41_id": 93
+    },
+    {
+        "releases_41_link": "https://www.bea.gov/data/gdp/gross-domestic-product#collapse86"
+    },
+    {
+        "releases_41_name": "Supplemental Estimates, Motor Vehicles"
+    },
+    {
+        "releases_41_press_release": true
+    },
+    {
+        "releases_41_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_41_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_42_id": 94
+    }
+]

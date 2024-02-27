@@ -1,0 +1,20 @@
+[
+    {
+        "results_97_agency_names_0": "Navy Department"
+    },
+    {
+        "results_97_document_number": "2024-03978"
+    },
+    {
+        "results_97_editorial_note": null
+    },
+    {
+        "results_97_excerpts": null
+    },
+    {
+        "results_97_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_97_filing_type": "regular"
+    }
+]

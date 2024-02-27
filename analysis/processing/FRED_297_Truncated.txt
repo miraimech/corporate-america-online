@@ -1,0 +1,26 @@
+[
+    {
+        "releases_299_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_29_id": 71
+    },
+    {
+        "releases_29_name": "Weekly Treasury Inflation-Indexed Securities"
+    },
+    {
+        "releases_29_press_release": false
+    },
+    {
+        "releases_29_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_29_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_2_id": 11
+    },
+    {
+        "releases_2_link": "http://www.bls.gov/ncs/ect"
+    }
+]

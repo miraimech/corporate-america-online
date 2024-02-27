@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_24_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_24_security": "DUE IN <= 13 MNTHS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_24_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_25_dailyAvgVolInMillions": 160.0
+    }
+]

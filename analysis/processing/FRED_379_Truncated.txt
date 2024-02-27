@@ -1,0 +1,23 @@
+[
+    {
+        "releases_91_id": 190
+    },
+    {
+        "releases_91_link": "http://www.freddiemac.com/pmms/"
+    },
+    {
+        "releases_91_name": "Primary Mortgage Market Survey"
+    },
+    {
+        "releases_91_press_release": true
+    },
+    {
+        "releases_91_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_91_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_92_id": 191
+    }
+]

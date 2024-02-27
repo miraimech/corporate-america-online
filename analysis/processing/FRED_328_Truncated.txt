@@ -1,0 +1,23 @@
+[
+    {
+        "releases_36_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_37_id": 87
+    },
+    {
+        "releases_37_name": "Transitional Euro Country Exchange Rates"
+    },
+    {
+        "releases_37_press_release": false
+    },
+    {
+        "releases_37_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_37_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_38_id": 89
+    }
+]

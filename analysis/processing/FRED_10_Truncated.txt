@@ -1,0 +1,8 @@
+[
+    {
+        "releases_107_link": "https://www.philadelphiafed.org/research-and-data/regional-economy/indexes/leading/"
+    },
+    {
+        "releases_107_name": "State Leading Indexes"
+    }
+]

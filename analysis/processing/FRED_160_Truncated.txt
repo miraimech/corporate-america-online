@@ -1,0 +1,20 @@
+[
+    {
+        "releases_212_press_release": true
+    },
+    {
+        "releases_212_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_212_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_213_id": 373
+    },
+    {
+        "releases_213_link": "http://econbrowser.com/recession-index"
+    },
+    {
+        "releases_213_name": "GDP-Based Recession Indicator Index"
+    }
+]

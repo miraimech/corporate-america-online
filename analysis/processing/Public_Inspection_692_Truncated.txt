@@ -1,0 +1,17 @@
+[
+    {
+        "results_71_agencies_0_raw_name": "International Trade Administration"
+    },
+    {
+        "results_71_agencies_0_slug": "international-trade-administration"
+    },
+    {
+        "results_71_agencies_0_url": "https://www.federalregister.gov/agencies/international-trade-administration"
+    },
+    {
+        "results_71_agency_names_0": "International Trade Administration"
+    },
+    {
+        "results_71_document_number": "2024-03945"
+    }
+]

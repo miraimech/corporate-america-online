@@ -1,0 +1,17 @@
+[
+    {
+        "releases_146_notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement posted on August 20, 2020 (https://www.federalreserve.gov/feeds/h3.html)."
+    },
+    {
+        "releases_146_press_release": false
+    },
+    {
+        "releases_146_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_146_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_147_id": 285
+    }
+]

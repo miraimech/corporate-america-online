@@ -1,0 +1,23 @@
+[
+    {
+        "releases_38_link": "http://www.federalreserve.gov/releases/housedebt/default.htm"
+    },
+    {
+        "releases_38_name": "Household Debt Service and Financial Obligations Ratios"
+    },
+    {
+        "releases_38_press_release": true
+    },
+    {
+        "releases_38_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_38_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_39_id": 91
+    },
+    {
+        "releases_39_link": "http://www.sca.isr.umich.edu/"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "releases_104_link": "http://www.bls.gov/fls/intl_gdp_capita_gdp_hour.htm"
+    },
+    {
+        "releases_104_name": "International Comparisons of GDP per Capita and per Hour"
+    },
+    {
+        "releases_104_press_release": true
+    },
+    {
+        "releases_104_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_104_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_105_id": 205
+    }
+]

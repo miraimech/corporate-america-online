@@ -1,0 +1,23 @@
+[
+    {
+        "results_75_toc_doc": "Privacy Act; Systems of Records"
+    },
+    {
+        "results_75_toc_subject": ""
+    },
+    {
+        "results_75_type": "Notice"
+    },
+    {
+        "results_76_agencies_0_id": 268
+    },
+    {
+        "results_76_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/268"
+    },
+    {
+        "results_76_agencies_0_name": "Justice Department"
+    },
+    {
+        "results_76_agencies_0_parent_id": null
+    }
+]

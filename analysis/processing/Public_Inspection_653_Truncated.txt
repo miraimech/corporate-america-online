@@ -1,0 +1,20 @@
+[
+    {
+        "results_65_editorial_note": null
+    },
+    {
+        "results_65_excerpts": null
+    },
+    {
+        "results_65_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_65_filing_type": "regular"
+    },
+    {
+        "results_65_html_url": "https://www.federalregister.gov/public-inspection/2024-03936/privacy-act"
+    },
+    {
+        "results_65_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03936"
+    }
+]

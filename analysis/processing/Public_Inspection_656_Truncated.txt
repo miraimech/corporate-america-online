@@ -1,0 +1,23 @@
+[
+    {
+        "results_65_title": "Privacy Act  "
+    },
+    {
+        "results_65_toc_doc": "Privacy Act"
+    },
+    {
+        "results_65_toc_subject": ""
+    },
+    {
+        "results_65_type": "Rule"
+    },
+    {
+        "results_66_agencies_0_id": 120
+    },
+    {
+        "results_66_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/120"
+    },
+    {
+        "results_66_agencies_0_name": "Economic Development Administration"
+    }
+]

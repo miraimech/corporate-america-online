@@ -1,0 +1,23 @@
+[
+    {
+        "releases_313_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_31_id": 78
+    },
+    {
+        "releases_31_link": "http://research.stlouisfed.org/publications/mt/"
+    },
+    {
+        "releases_31_name": "St. Louis Monthly Reserves and Monetary Base"
+    },
+    {
+        "releases_31_press_release": false
+    },
+    {
+        "releases_31_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_31_realtime_start": "2024-02-26"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_3_percentSecondQuintMktShare": "25.92"
+    },
+    {
+        "pd_marketshare_quarterly_others_3_percentSecondQuintRange": "4.12 - 5.77"
+    },
+    {
+        "pd_marketshare_quarterly_others_3_percentThirdQuintMktShare": "13.23"
+    },
+    {
+        "pd_marketshare_quarterly_others_3_percentThirdQuintRange": "2.22 - 2.87"
+    },
+    {
+        "pd_marketshare_quarterly_others_3_security": "COUPONS DUE IN > 2 YRS,BUT <= 3 YRS"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "results_63_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_63_filing_type": "regular"
+    },
+    {
+        "results_63_html_url": "https://www.federalregister.gov/public-inspection/2024-03933/culturally-significant-objects-imported-for-exhibition-art-and-war-in-the-renaissance-the-battle-of"
+    },
+    {
+        "results_63_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03933"
+    }
+]

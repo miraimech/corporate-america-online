@@ -1,0 +1,23 @@
+[
+    {
+        "releases_140_press_release": true
+    },
+    {
+        "releases_140_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_140_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_141_id": 275
+    },
+    {
+        "releases_141_link": "http://data.worldbank.org/data-catalog/global-financial-development"
+    },
+    {
+        "releases_141_name": "Global Financial Development"
+    },
+    {
+        "releases_141_press_release": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_48_agencies_0_slug": "national-institutes-of-health"
+    },
+    {
+        "results_48_agencies_0_url": "https://www.federalregister.gov/agencies/national-institutes-of-health"
+    },
+    {
+        "results_48_agency_names_0": "National Institutes of Health"
+    },
+    {
+        "results_48_document_number": "2024-03916"
+    },
+    {
+        "results_48_editorial_note": null
+    },
+    {
+        "results_48_excerpts": null
+    }
+]

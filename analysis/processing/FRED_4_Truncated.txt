@@ -1,0 +1,23 @@
+[
+    {
+        "releases_100_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_101_id": 201
+    },
+    {
+        "releases_101_link": "http://www.bls.gov/fls/intl_consumer_prices.htm"
+    },
+    {
+        "releases_101_name": "International Indexes of Consumer Prices"
+    },
+    {
+        "releases_101_press_release": false
+    },
+    {
+        "releases_101_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_101_realtime_start": "2024-02-26"
+    }
+]

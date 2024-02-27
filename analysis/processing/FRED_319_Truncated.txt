@@ -1,0 +1,17 @@
+[
+    {
+        "releases_310_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_310_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_311_id": 637
+    },
+    {
+        "releases_311_link": "https://www.atlantafed.org/chcs/wage-growth-tracker"
+    },
+    {
+        "releases_311_name": "Wage Growth Tracker"
+    }
+]

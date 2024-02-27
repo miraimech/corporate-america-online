@@ -1,0 +1,8 @@
+[
+    {
+        "releases_163_notes": "The Bureau of Labor Statistics (BLS) produces all of the unadjusted series in this release. The BLS only produces a selection of seasonally adjusted data; the remaining series are adjusted by The Federal Reserve Bank of St. Louis. Users of these data will find details of the adjustment method and which institution made the adjustment in the series notes."
+    },
+    {
+        "releases_163_press_release": false
+    }
+]

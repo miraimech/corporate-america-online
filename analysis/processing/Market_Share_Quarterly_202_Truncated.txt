@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_32_security": "OBLIGATIONS DUE IN <= 13 MNTHS"
+    },
+    {
+        "pd_marketshare_quarterly_others_32_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_dailyAvgVolInMillions": 800.0
+    },
+    {
+        "pd_marketshare_quarterly_others_33_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_percentFifthQuintRange": "<=0.00"
+    }
+]

@@ -1,0 +1,5 @@
+[
+    {
+        "releases_308_notes": "The Community Bank Sentiment Index is an index derived from quarterly polling of community bankers across the nation. As community bankers answer questions about their outlook on the economy, their answers are analyzed and compiled into a single number. The diffusion index is derived from responses to seven survey questions designed to indicate the direction of change in business conditions, monetary policy, regulatory burden, capital spending, operations expansion, profitability, and franchise value. An index reading of 100 indicates a neutral sentiment, while anything above 100 indicates a positive sentiment, and anything below 100 indicates negative sentiment."
+    }
+]

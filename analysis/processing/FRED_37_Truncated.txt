@@ -1,0 +1,23 @@
+[
+    {
+        "releases_127_id": 257
+    },
+    {
+        "releases_127_link": "http://www.nber.org/macrohistory/"
+    },
+    {
+        "releases_127_name": "NBER Macrohistory Database"
+    },
+    {
+        "releases_127_press_release": false
+    },
+    {
+        "releases_127_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_127_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_128_id": 258
+    }
+]

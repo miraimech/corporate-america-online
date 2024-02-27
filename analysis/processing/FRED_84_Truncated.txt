@@ -1,0 +1,23 @@
+[
+    {
+        "releases_166_link": "https://www.clevelandfed.org/indicators-and-data/median-cpi"
+    },
+    {
+        "releases_166_name": "Current Median CPI"
+    },
+    {
+        "releases_166_press_release": true
+    },
+    {
+        "releases_166_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_166_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_167_id": 316
+    },
+    {
+        "releases_167_link": "http://www.federalreserve.gov/releases/g20/"
+    }
+]

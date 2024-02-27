@@ -1,0 +1,26 @@
+[
+    {
+        "releases_149_press_release": false
+    },
+    {
+        "releases_149_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_149_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_14_id": 46
+    },
+    {
+        "releases_14_link": "http://www.bls.gov/ppi/"
+    },
+    {
+        "releases_14_name": "Producer Price Index"
+    },
+    {
+        "releases_14_press_release": true
+    },
+    {
+        "releases_14_realtime_end": "2024-02-26"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_94_subject_3": null
+    },
+    {
+        "results_94_title": "Hearings, Meetings, Proceedings, etc.: Pennsylvania Advisory Committee "
+    },
+    {
+        "results_94_toc_doc": "Pennsylvania Advisory Committee"
+    },
+    {
+        "results_94_toc_subject": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_94_type": "Notice"
+    },
+    {
+        "results_95_agencies_0_id": 159
+    }
+]

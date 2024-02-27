@@ -1,0 +1,11 @@
+[
+    {
+        "results_69_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: A Coastal Management Needs Assessment and Market Analysis for Financing Resilience "
+    },
+    {
+        "results_69_toc_doc": "A Coastal Management Needs Assessment and Market Analysis for Financing Resilience"
+    },
+    {
+        "results_69_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    }
+]

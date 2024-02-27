@@ -1,0 +1,17 @@
+[
+    {
+        "results_23_editorial_note": null
+    },
+    {
+        "results_23_excerpts": null
+    },
+    {
+        "results_23_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_23_filing_type": "regular"
+    },
+    {
+        "results_23_html_url": "https://www.federalregister.gov/public-inspection/2024-03889/agency-information-collection-activities-proposals-submissions-and-approvals"
+    }
+]

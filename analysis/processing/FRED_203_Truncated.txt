@@ -1,0 +1,23 @@
+[
+    {
+        "releases_23_link": "http://www.census.gov/popest/"
+    },
+    {
+        "releases_23_name": "National Population Estimates"
+    },
+    {
+        "releases_23_press_release": false
+    },
+    {
+        "releases_23_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_23_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_240_id": 410
+    },
+    {
+        "releases_240_link": "https://ucr.fbi.gov/ucr-publications"
+    }
+]

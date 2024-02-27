@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_29_percentSecondQuintRange": "2.89 - 6.03"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_29_percentThirdQuintMktShare": "1.70"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_29_percentThirdQuintRange": "0.08 - 0.66"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_29_security": "DUE IN > 13 MNTHS, BUT <= 5 YRS"
+    }
+]

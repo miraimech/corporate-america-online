@@ -1,0 +1,20 @@
+[
+    {
+        "results_122_pdf_url": "https://public-inspection.federalregister.gov/2024-04007.pdf"
+    },
+    {
+        "results_122_publication_date": "2024-02-27"
+    },
+    {
+        "results_122_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/007.txt"
+    },
+    {
+        "results_122_subject_1": "Privacy Act; Systems of Records"
+    },
+    {
+        "results_122_subject_2": null
+    },
+    {
+        "results_122_subject_3": null
+    }
+]

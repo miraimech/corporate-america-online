@@ -1,0 +1,5 @@
+[
+    {
+        "releases_228_notes": "The Spliced Oil Price release was created by the Federal Reserve Bank of St. Louis to expand the history of the monthly West Texas Intermediate oil price series in FRED. We simply combined these two FRED series: https://fred.stlouisfed.org/series/OILPRICE and https://fred.stlouisfed.org/series/MCOILWTICO. From January 1946 through July 2013, the series used is OILPRICE. From August 2013 to present, the series used is MCOILWTICO."
+    }
+]

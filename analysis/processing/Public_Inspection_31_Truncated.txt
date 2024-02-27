@@ -1,0 +1,17 @@
+[
+    {
+        "results_104_agencies_0_slug": "national-oceanic-and-atmospheric-administration"
+    },
+    {
+        "results_104_agencies_0_url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration"
+    },
+    {
+        "results_104_agency_names_0": "National Oceanic and Atmospheric Administration"
+    },
+    {
+        "results_104_document_number": "2024-03986"
+    },
+    {
+        "results_104_editorial_note": null
+    }
+]

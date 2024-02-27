@@ -1,0 +1,26 @@
+[
+    {
+        "releases_0_press_release": true
+    },
+    {
+        "releases_0_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_0_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_100_id": 200
+    },
+    {
+        "releases_100_link": "http://www.cboe.com/data/mktstat.aspx"
+    },
+    {
+        "releases_100_name": "CBOE Market Statistics"
+    },
+    {
+        "releases_100_press_release": false
+    },
+    {
+        "releases_100_realtime_end": "2024-02-26"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_144_agencies_2_parent_id": null
+    },
+    {
+        "results_144_agencies_2_raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    },
+    {
+        "results_144_agencies_2_slug": "national-aeronautics-and-space-administration"
+    },
+    {
+        "results_144_agencies_2_url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration"
+    },
+    {
+        "results_144_agency_names_0": "General Services Administration"
+    }
+]

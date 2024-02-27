@@ -1,0 +1,17 @@
+[
+    {
+        "results_53_title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Prescott Wind Energy LLC "
+    },
+    {
+        "results_53_toc_doc": "Prescott Wind Energy LLC"
+    },
+    {
+        "results_53_toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_53_type": "Notice"
+    },
+    {
+        "results_54_agencies_0_id": 361
+    }
+]

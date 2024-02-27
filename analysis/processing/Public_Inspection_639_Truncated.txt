@@ -1,0 +1,20 @@
+[
+    {
+        "results_62_publication_date": "2024-02-27"
+    },
+    {
+        "results_62_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/932.txt"
+    },
+    {
+        "results_62_subject_1": "Application:"
+    },
+    {
+        "results_62_subject_2": "PE Hydro Generation, LLC"
+    },
+    {
+        "results_62_subject_3": null
+    },
+    {
+        "results_62_title": "Application: PE Hydro Generation, LLC "
+    }
+]

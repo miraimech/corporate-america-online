@@ -1,0 +1,17 @@
+[
+    {
+        "results_136_filing_type": "regular"
+    },
+    {
+        "results_136_html_url": "https://www.federalregister.gov/public-inspection/2024-04032/hearings-meetings-proceedings-etc-enterprise-texas-pipeline-llc-acadian-gas-pipeline-system"
+    },
+    {
+        "results_136_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-04032"
+    },
+    {
+        "results_136_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_136_num_pages": 1
+    }
+]

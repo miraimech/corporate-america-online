@@ -1,0 +1,20 @@
+[
+    {
+        "results_68_agencies_0_id": 272
+    },
+    {
+        "results_68_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/272"
+    },
+    {
+        "results_68_agencies_0_name": "Labor Statistics Bureau"
+    },
+    {
+        "results_68_agencies_0_parent_id": 271
+    },
+    {
+        "results_68_agencies_0_raw_name": "LABOR STATISTICS BUREAU"
+    },
+    {
+        "results_68_agencies_0_slug": "labor-statistics-bureau"
+    }
+]

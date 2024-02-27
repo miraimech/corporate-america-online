@@ -1,0 +1,20 @@
+[
+    {
+        "results_47_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/915.txt"
+    },
+    {
+        "results_47_subject_1": "Hearings, Meetings, Proceedings, etc."
+    },
+    {
+        "results_47_subject_2": null
+    },
+    {
+        "results_47_subject_3": null
+    },
+    {
+        "results_47_title": "Hearings, Meetings, Proceedings, etc.  "
+    },
+    {
+        "results_47_toc_doc": "Hearings, Meetings, Proceedings, etc."
+    }
+]

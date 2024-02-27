@@ -1,0 +1,17 @@
+[
+    {
+        "results_144_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Combating Trafficking in Persons "
+    },
+    {
+        "results_144_toc_doc": "Combating Trafficking in Persons"
+    },
+    {
+        "results_144_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_144_type": "Notice"
+    },
+    {
+        "results_145_agencies_0_id": 167
+    }
+]

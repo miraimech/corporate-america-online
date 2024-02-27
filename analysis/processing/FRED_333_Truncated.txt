@@ -1,0 +1,20 @@
+[
+    {
+        "releases_42_name": "Survey of Secondary Market Prices and Yields, and Interest Rates for Home Loans"
+    },
+    {
+        "releases_42_press_release": true
+    },
+    {
+        "releases_42_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_42_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_43_id": 95
+    },
+    {
+        "releases_43_link": "http://www.census.gov/indicator/www/m3/"
+    }
+]

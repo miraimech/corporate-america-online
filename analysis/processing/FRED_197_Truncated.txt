@@ -1,0 +1,11 @@
+[
+    {
+        "releases_236_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_237_id": 406
+    },
+    {
+        "releases_237_name": "Homeownership Rate"
+    }
+]

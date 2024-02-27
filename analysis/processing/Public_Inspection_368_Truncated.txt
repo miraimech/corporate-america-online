@@ -1,0 +1,20 @@
+[
+    {
+        "results_1_toc_subject": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic:"
+    },
+    {
+        "results_1_type": "Rule"
+    },
+    {
+        "results_20_agencies_0_id": 361
+    },
+    {
+        "results_20_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/361"
+    },
+    {
+        "results_20_agencies_0_name": "National Oceanic and Atmospheric Administration"
+    },
+    {
+        "results_20_agencies_0_parent_id": 54
+    }
+]

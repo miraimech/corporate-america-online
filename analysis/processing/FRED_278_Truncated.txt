@@ -1,0 +1,5 @@
+[
+    {
+        "releases_288_notes": "The Consumer Expenditure Surveys (CE) program provides data on expenditures, income, and demographic characteristics of consumers in the United States. CE data are primarily used to revise the relative importance of goods and services in the market basket of the Consumer Price Index.\r\n\r\nThe CE surveys collect data that fall into one of the following major expenditure categories: Alcoholic beverages, Apparel and services, Cash contributions, Education, Entertainment, Food, Healthcare, Housing, Miscellaneous, Personal care products and services, Personal insurance and pensions, Reading, Tobacco products and smoking supplies, and Transportation."
+    }
+]

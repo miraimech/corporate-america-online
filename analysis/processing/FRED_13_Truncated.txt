@@ -1,0 +1,26 @@
+[
+    {
+        "releases_108_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_109_id": 212
+    },
+    {
+        "releases_109_link": "http://www.eia.doe.gov/dnav/pet/pet_pri_spt_s1_d.htm"
+    },
+    {
+        "releases_109_name": "Spot Prices"
+    },
+    {
+        "releases_109_press_release": false
+    },
+    {
+        "releases_109_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_109_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_10_id": 21
+    }
+]

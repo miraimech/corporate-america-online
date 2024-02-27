@@ -1,0 +1,26 @@
+[
+    {
+        "refRates_2_effectiveDate": "2024-02-23"
+    },
+    {
+        "refRates_2_percentPercentile1": 5.25
+    },
+    {
+        "refRates_2_percentPercentile25": 5.31
+    },
+    {
+        "refRates_2_percentPercentile75": 5.33
+    },
+    {
+        "refRates_2_percentPercentile99": 5.38
+    },
+    {
+        "refRates_2_percentRate": 5.31
+    },
+    {
+        "refRates_2_revisionIndicator": ""
+    },
+    {
+        "refRates_2_type": "OBFR"
+    }
+]

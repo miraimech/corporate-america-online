@@ -1,0 +1,20 @@
+[
+    {
+        "results_58_agencies_0_slug": "federal-energy-regulatory-commission"
+    },
+    {
+        "results_58_agencies_0_url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission"
+    },
+    {
+        "results_58_agency_names_0": "Federal Energy Regulatory Commission"
+    },
+    {
+        "results_58_document_number": "2024-03927"
+    },
+    {
+        "results_58_editorial_note": null
+    },
+    {
+        "results_58_excerpts": null
+    }
+]

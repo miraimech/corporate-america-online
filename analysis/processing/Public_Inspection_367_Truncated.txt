@@ -1,0 +1,14 @@
+[
+    {
+        "results_1_subject_2": "2024 Recreational Closure for Golden Tilefish in the South Atlantic"
+    },
+    {
+        "results_1_subject_3": null
+    },
+    {
+        "results_1_title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: 2024 Recreational Closure for Golden Tilefish in the South Atlantic "
+    },
+    {
+        "results_1_toc_doc": "2024 Recreational Closure for Golden Tilefish in the South Atlantic"
+    }
+]

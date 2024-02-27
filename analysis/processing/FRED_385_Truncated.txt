@@ -1,0 +1,23 @@
+[
+    {
+        "releases_97_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_98_id": 198
+    },
+    {
+        "releases_98_link": "https://www.kansascityfed.org/data-and-trends/kansas-city-financial-stress-index/"
+    },
+    {
+        "releases_98_name": "Kansas City Financial Stress Index"
+    },
+    {
+        "releases_98_press_release": true
+    },
+    {
+        "releases_98_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_98_realtime_start": "2024-02-26"
+    }
+]

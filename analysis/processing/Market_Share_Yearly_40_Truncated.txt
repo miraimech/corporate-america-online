@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_percentSecondQuintMktShare": "14.81"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_percentSecondQuintRange": "0.00 - 5.68"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_percentThirdQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_percentThirdQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_21_security": "NON-AGENCY RMBS"
+    }
+]

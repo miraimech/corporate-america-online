@@ -1,0 +1,20 @@
+[
+    {
+        "releases_288_press_release": true
+    },
+    {
+        "releases_288_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_288_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_289_id": 480
+    },
+    {
+        "releases_289_link": "https://www.eia.gov/totalenergy/data/monthly/#summary"
+    },
+    {
+        "releases_289_name": "Total Energy"
+    }
+]

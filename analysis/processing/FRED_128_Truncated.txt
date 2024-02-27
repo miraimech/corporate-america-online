@@ -1,0 +1,20 @@
+[
+    {
+        "releases_192_press_release": true
+    },
+    {
+        "releases_192_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_192_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_193_id": 352
+    },
+    {
+        "releases_193_link": "https://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey"
+    },
+    {
+        "releases_193_name": "Nonmanufacturing Business Outlook Survey"
+    }
+]

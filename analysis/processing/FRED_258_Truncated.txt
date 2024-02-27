@@ -1,0 +1,23 @@
+[
+    {
+        "releases_276_id": 462
+    },
+    {
+        "releases_276_link": "https://www.realtor.com/research/data/"
+    },
+    {
+        "releases_276_name": "Housing Inventory Core Metrics"
+    },
+    {
+        "releases_276_press_release": true
+    },
+    {
+        "releases_276_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_276_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_277_id": 463
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_27_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/893.txt"
+    },
+    {
+        "results_27_subject_1": "Pesticide Product Registration:"
+    },
+    {
+        "results_27_subject_2": "Applications for New Active Ingredients (January 2024)"
+    },
+    {
+        "results_27_subject_3": null
+    },
+    {
+        "results_27_title": "Pesticide Product Registration: Applications for New Active Ingredients (January 2024) "
+    }
+]

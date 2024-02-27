@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_5_percentThirdQuintRange": "1.92 - 3.50"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_5_security": "COUPONS DUE IN > 6 YRS, BUT <= 7 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_5_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_6_dailyAvgVolInMillions": 28263.7
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_6_percentFourthQuintRange": "0.62 - 1.88"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentSecondQuintMktShare": "27.76"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentSecondQuintRange": "2.91 - 8.10"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentThirdQuintMktShare": "11.41"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentThirdQuintRange": "1.91 - 2.65"
+    }
+]

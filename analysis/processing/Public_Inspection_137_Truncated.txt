@@ -1,0 +1,17 @@
+[
+    {
+        "results_120_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/004.txt"
+    },
+    {
+        "results_120_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals"
+    },
+    {
+        "results_120_subject_2": null
+    },
+    {
+        "results_120_subject_3": null
+    },
+    {
+        "results_120_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals  "
+    }
+]

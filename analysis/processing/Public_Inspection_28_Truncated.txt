@@ -1,0 +1,14 @@
+[
+    {
+        "results_103_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/985.txt"
+    },
+    {
+        "results_103_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_103_subject_2": "Online Program Management System for Carbon Dioxide-Carp"
+    },
+    {
+        "results_103_subject_3": null
+    }
+]

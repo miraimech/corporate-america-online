@@ -1,0 +1,26 @@
+[
+    {
+        "releases_309_press_release": true
+    },
+    {
+        "releases_309_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_309_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_30_id": 72
+    },
+    {
+        "releases_30_name": "Daily Treasury Inflation-Indexed Securities"
+    },
+    {
+        "releases_30_press_release": false
+    },
+    {
+        "releases_30_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_30_realtime_start": "2024-02-26"
+    }
+]

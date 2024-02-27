@@ -1,0 +1,17 @@
+[
+    {
+        "results_136_publication_date": "2024-02-27"
+    },
+    {
+        "results_136_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/032.txt"
+    },
+    {
+        "results_136_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_136_subject_2": "Enterprise Texas Pipeline LLC, Acadian Gas Pipeline System, Enterprise Intrastate LLC; Technical Conference"
+    },
+    {
+        "results_136_subject_3": null
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_23_security": "COMMERCIAL PAPER"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_23_securityType": "CORPORATE SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_24_dailyAvgVolInMillions": 18.6
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_24_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_24_percentFifthQuintRange": "<=0.00"
+    }
+]

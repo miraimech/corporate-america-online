@@ -1,0 +1,17 @@
+[
+    {
+        "results_3_editorial_note": null
+    },
+    {
+        "results_3_excerpts": null
+    },
+    {
+        "results_3_filed_at": "2024-02-23T16:15:00.000-05:00"
+    },
+    {
+        "results_3_filing_type": "special"
+    },
+    {
+        "results_3_html_url": "https://www.federalregister.gov/public-inspection/2024-00366/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for"
+    }
+]

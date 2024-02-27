@@ -1,0 +1,14 @@
+[
+    {
+        "releases_20_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_210_id": 370
+    },
+    {
+        "releases_210_link": "http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C"
+    },
+    {
+        "releases_210_name": "Financial Access Survey"
+    }
+]

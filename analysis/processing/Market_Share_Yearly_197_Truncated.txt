@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_37_securityType": "ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_others_38_dailyAvgVolInMillions": 79.1
+    },
+    {
+        "pd_marketshare_ytd_others_38_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_38_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_38_percentFirstQuintMktShare": "94.35"
+    }
+]

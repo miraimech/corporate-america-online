@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_14_dailyAvgVolInMillions": 6966.7
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentFirstQuintMktShare": "68.49"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentFirstQuintRange": ">=9.96"
+    }
+]

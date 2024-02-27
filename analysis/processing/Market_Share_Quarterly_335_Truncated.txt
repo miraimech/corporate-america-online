@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_4_percentSecondQuintRange": "4.32 - 6.44"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentThirdQuintMktShare": "10.73"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentThirdQuintRange": "1.84 - 2.57"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_security": "COUPONS DUE > 3 YRS, BUT <= 6 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    }
+]

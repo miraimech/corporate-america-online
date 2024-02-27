@@ -1,0 +1,5 @@
+[
+    {
+        "releases_170_notes": "The Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse webpage at the Federal Reserve Bank of San Francisco at: https://www.frbsf.org/economic-research/publications/economic-letter/2009/january/tech-pulse-index/."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_69_document_number": "2024-03943"
+    },
+    {
+        "results_69_editorial_note": null
+    },
+    {
+        "results_69_excerpts": null
+    },
+    {
+        "results_69_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_69_filing_type": "regular"
+    },
+    {
+        "results_69_html_url": "https://www.federalregister.gov/public-inspection/2024-03943/agency-information-collection-activities-proposals-submissions-and-approvals-a-coastal-management"
+    }
+]

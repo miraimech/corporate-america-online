@@ -1,0 +1,20 @@
+[
+    {
+        "results_52_agencies_0_url": "https://www.federalregister.gov/agencies/federal-aviation-administration"
+    },
+    {
+        "results_52_agency_names_0": "Federal Aviation Administration"
+    },
+    {
+        "results_52_document_number": "2024-03920"
+    },
+    {
+        "results_52_editorial_note": null
+    },
+    {
+        "results_52_excerpts": null
+    },
+    {
+        "results_52_filed_at": "2024-02-26T08:45:00.000-05:00"
+    }
+]

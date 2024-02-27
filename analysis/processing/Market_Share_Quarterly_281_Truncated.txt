@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_22_security": "OTHER CMBS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_22_securityType": "NON-AGENCY MBS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_23_dailyAvgVolInMillions": 102145.9
+    },
+    {
+        "pd_marketshare_quarterly_totals_23_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_23_percentFifthQuintRange": "<=0.00"
+    }
+]

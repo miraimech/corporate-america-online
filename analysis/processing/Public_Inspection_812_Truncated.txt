@@ -1,0 +1,17 @@
+[
+    {
+        "results_8_subject_1": "Additions of Entities, Revisions of Entries, and Removal of an Entity from the Entity List"
+    },
+    {
+        "results_8_subject_2": null
+    },
+    {
+        "results_8_subject_3": null
+    },
+    {
+        "results_8_title": "Additions of Entities, Revisions of Entries, and Removal of an Entity from the Entity List  "
+    },
+    {
+        "results_8_toc_doc": "Additions of Entities, Revisions of Entries, and Removal of an Entity from the Entity List"
+    }
+]

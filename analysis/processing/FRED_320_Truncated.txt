@@ -1,0 +1,5 @@
+[
+    {
+        "releases_311_notes": "The Atlanta Fed&#39;s Wage Growth Tracker is a measure of the nominal wage growth of individuals. It is constructed using microdata from the Current Population Survey (CPS), and is the median percent change in the hourly wage of individuals observed 12 months apart. \r\n\r\nFor more details about this release from the Federal Reserve Bank of Atlanta, visit their Wage Growth Tracker webpage (https://www.atlantafed.org/chcs/wage-growth-tracker?panel=2)."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_15_percentSecondQuintRange": "2.34 - 9.09"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_15_percentThirdQuintMktShare": "2.58"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_15_percentThirdQuintRange": "0.03 - 1.09"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_15_security": "TBA CASH TRANSACTIONS"
+    }
+]

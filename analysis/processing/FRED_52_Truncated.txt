@@ -1,0 +1,23 @@
+[
+    {
+        "releases_13_link": "http://www.census.gov/construction/nrc/"
+    },
+    {
+        "releases_13_name": "New Residential Construction"
+    },
+    {
+        "releases_13_press_release": true
+    },
+    {
+        "releases_13_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_13_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_140_id": 274
+    },
+    {
+        "releases_140_link": "http://uofllogistics.org/?project=the-lodi-index"
+    }
+]

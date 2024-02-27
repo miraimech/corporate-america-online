@@ -1,0 +1,5 @@
+[
+    {
+        "releases_309_notes": "The Senior Credit Officer Opinion Survey on Dealer Financing Terms (SCOOS) is a quarterly survey providing information about the availability and terms of credit in securities financing and over-the counter (OTC) derivatives markets, which are important conduits for leverage in the financial system. The participating institutions account for most of the dealer financing of dollar-denominated securities to non-dealers and are the most active intermediaries in OTC derivatives markets. The survey is directed to senior credit officers responsible for maintaining a consolidated perspective on the management of credit risks. For further information, please refer to the SCOOS release at the Board of Governor\u2019s website: www.federalreserve.gov/data/scoos.htm\r\nIMPORTANT:  Although the raw data series are constructed as counts for each offered response to a survey question, the data are intended to be viewed as grouped by question, rather than by individual responses.  We recommend that it be accessed through the below release table for appropriate context."
+    }
+]

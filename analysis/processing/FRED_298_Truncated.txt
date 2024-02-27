@@ -1,0 +1,23 @@
+[
+    {
+        "releases_2_name": "Employment Cost Index"
+    },
+    {
+        "releases_2_press_release": true
+    },
+    {
+        "releases_2_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_2_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_300_id": 491
+    },
+    {
+        "releases_300_link": "https://www.chicagofed.org/publications/working-papers/2017/wp2017-12"
+    },
+    {
+        "releases_300_name": "The Effects of the 1930s HOLC \"Redlining\" Maps"
+    }
+]

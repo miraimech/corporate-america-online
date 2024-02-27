@@ -1,0 +1,14 @@
+[
+    {
+        "results_112_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_112_subject_2": "Taxpayer Advocacy Panel's Tax Forms and Publications Project Committee"
+    },
+    {
+        "results_112_subject_3": null
+    },
+    {
+        "results_112_title": "Hearings, Meetings, Proceedings, etc.: Taxpayer Advocacy Panel's Tax Forms and Publications Project Committee "
+    }
+]

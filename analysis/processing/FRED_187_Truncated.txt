@@ -1,0 +1,23 @@
+[
+    {
+        "releases_229_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_229_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_22_id": 55
+    },
+    {
+        "releases_22_link": "https://cdr.ffiec.gov/public/"
+    },
+    {
+        "releases_22_name": "Reports of Condition and Income for All Insured U.S. Commercial Banks"
+    },
+    {
+        "releases_22_press_release": true
+    },
+    {
+        "releases_22_realtime_end": "2024-02-26"
+    }
+]

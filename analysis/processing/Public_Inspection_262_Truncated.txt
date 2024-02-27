@@ -1,0 +1,17 @@
+[
+    {
+        "results_140_html_url": "https://www.federalregister.gov/public-inspection/2024-04035/combined-filings"
+    },
+    {
+        "results_140_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-04035"
+    },
+    {
+        "results_140_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_140_num_pages": 2
+    },
+    {
+        "results_140_page_views_count": 1
+    }
+]

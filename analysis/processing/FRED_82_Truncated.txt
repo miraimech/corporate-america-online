@@ -1,0 +1,23 @@
+[
+    {
+        "releases_163_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_163_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_164_id": 311
+    },
+    {
+        "releases_164_link": "http://www.federalreserve.gov/paymentsystems/coin_data.htm"
+    },
+    {
+        "releases_164_name": "Currency and Coin Services"
+    },
+    {
+        "releases_164_press_release": false
+    },
+    {
+        "releases_164_realtime_end": "2024-02-26"
+    }
+]

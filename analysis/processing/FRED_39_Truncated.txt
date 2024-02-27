@@ -1,0 +1,23 @@
+[
+    {
+        "releases_129_name": "CredAbility Consumer Distress Index"
+    },
+    {
+        "releases_129_press_release": false
+    },
+    {
+        "releases_129_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_129_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_12_id": 25
+    },
+    {
+        "releases_12_link": "http://www.census.gov/mtis/www/mtis.html"
+    },
+    {
+        "releases_12_name": "Manufacturing and Trade Inventories and Sales"
+    }
+]

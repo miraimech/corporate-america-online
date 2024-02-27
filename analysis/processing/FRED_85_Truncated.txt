@@ -1,0 +1,23 @@
+[
+    {
+        "releases_167_name": "G.20 Finance Companies"
+    },
+    {
+        "releases_167_press_release": true
+    },
+    {
+        "releases_167_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_167_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_168_id": 317
+    },
+    {
+        "releases_168_link": "http://www.fdic.gov/regulations/resources/rates/index.html"
+    },
+    {
+        "releases_168_name": "National Rates and Rate Caps - Monthly Update"
+    }
+]

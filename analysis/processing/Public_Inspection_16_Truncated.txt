@@ -1,0 +1,14 @@
+[
+    {
+        "results_101_publication_date": "2024-02-27"
+    },
+    {
+        "results_101_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/983.txt"
+    },
+    {
+        "results_101_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_101_subject_2": "National Leadership Grants for Libraries and the Laura Bush 21st Century Librarian Program Notices of Funding Opportunity"
+    }
+]

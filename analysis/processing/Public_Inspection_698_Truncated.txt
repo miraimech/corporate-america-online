@@ -1,0 +1,20 @@
+[
+    {
+        "results_72_agencies_0_name": "Education Department"
+    },
+    {
+        "results_72_agencies_0_parent_id": null
+    },
+    {
+        "results_72_agencies_0_raw_name": "Education Department"
+    },
+    {
+        "results_72_agencies_0_slug": "education-department"
+    },
+    {
+        "results_72_agencies_0_url": "https://www.federalregister.gov/agencies/education-department"
+    },
+    {
+        "results_72_agency_names_0": "Education Department"
+    }
+]

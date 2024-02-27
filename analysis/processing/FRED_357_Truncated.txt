@@ -1,0 +1,23 @@
+[
+    {
+        "releases_67_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_67_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_68_id": 144
+    },
+    {
+        "releases_68_link": "http://www.census.gov/housing/hvs/"
+    },
+    {
+        "releases_68_name": "Residential Vacancies and Homeownership Annual Statistics"
+    },
+    {
+        "releases_68_press_release": false
+    },
+    {
+        "releases_68_realtime_end": "2024-02-26"
+    }
+]

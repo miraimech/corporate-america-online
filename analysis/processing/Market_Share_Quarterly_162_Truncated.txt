@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_19_percentSecondQuintMktShare": "31.73"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_percentSecondQuintRange": "4.06 - 8.99"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_percentThirdQuintMktShare": "6.42"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_percentThirdQuintRange": "0.31 - 2.04"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_security": "ALL OTHER FEDERAL AGENCY AND GSE RMBS"
+    }
+]

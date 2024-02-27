@@ -1,0 +1,17 @@
+[
+    {
+        "results_144_publication_date": "2024-02-27"
+    },
+    {
+        "results_144_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/041.txt"
+    },
+    {
+        "results_144_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_144_subject_2": "Combating Trafficking in Persons"
+    },
+    {
+        "results_144_subject_3": null
+    }
+]

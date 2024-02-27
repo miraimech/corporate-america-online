@@ -1,0 +1,23 @@
+[
+    {
+        "results_56_publication_date": "2024-02-27"
+    },
+    {
+        "results_56_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/925.txt"
+    },
+    {
+        "results_56_subject_1": "Combined Filings"
+    },
+    {
+        "results_56_subject_2": null
+    },
+    {
+        "results_56_subject_3": null
+    },
+    {
+        "results_56_title": "Combined Filings  "
+    },
+    {
+        "results_56_toc_doc": "Combined Filings"
+    }
+]

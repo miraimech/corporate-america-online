@@ -1,0 +1,17 @@
+[
+    {
+        "releases_303_notes": "The EONIA (European Overnight Index Average) rate is the closing rate for the overnight maturity calculated by collecting data on unsecured overnight lending in the euro area provided by banks belonging to the EONIA panel."
+    },
+    {
+        "releases_303_press_release": false
+    },
+    {
+        "releases_303_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_303_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_304_id": 500
+    }
+]

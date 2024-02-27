@@ -1,0 +1,17 @@
+[
+    {
+        "results_137_publication_date": "2024-02-27"
+    },
+    {
+        "results_137_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/027.txt"
+    },
+    {
+        "results_137_subject_1": "Clean Air Act Operating Permit Program:"
+    },
+    {
+        "results_137_subject_2": "Petition for Objection to State Operating Permit for Covanta Delaware Valley LP, Delaware Valley Resource Recovery"
+    },
+    {
+        "results_137_subject_3": null
+    }
+]

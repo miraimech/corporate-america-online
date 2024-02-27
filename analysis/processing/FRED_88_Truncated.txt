@@ -1,0 +1,14 @@
+[
+    {
+        "releases_16_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_170_id": 320
+    },
+    {
+        "releases_170_link": "https://www.frbsf.org/economic-research/publications/economic-letter/2009/january/tech-pulse-index/"
+    },
+    {
+        "releases_170_name": "Tech Pulse"
+    }
+]

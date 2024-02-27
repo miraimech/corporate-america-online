@@ -1,0 +1,14 @@
+[
+    {
+        "results_89_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_89_subject_2": "Tribal Child Support Enforcement Direct Funding Requests"
+    },
+    {
+        "results_89_subject_3": null
+    },
+    {
+        "results_89_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Tribal Child Support Enforcement Direct Funding Requests "
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "results_111_agency_names_0": "Defense Department"
+    },
+    {
+        "results_111_document_number": "2024-03995"
+    },
+    {
+        "results_111_editorial_note": null
+    },
+    {
+        "results_111_excerpts": null
+    },
+    {
+        "results_111_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_111_filing_type": "regular"
+    }
+]

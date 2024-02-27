@@ -1,0 +1,26 @@
+[
+    {
+        "releases_73_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_74_id": 167
+    },
+    {
+        "releases_74_name": "Italian Foreign Exchange Intervention"
+    },
+    {
+        "releases_74_press_release": false
+    },
+    {
+        "releases_74_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_74_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_75_id": 168
+    },
+    {
+        "releases_75_name": "Swiss Foreign Exchange Intervention"
+    }
+]

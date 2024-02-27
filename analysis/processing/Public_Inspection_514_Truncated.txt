@@ -1,0 +1,17 @@
+[
+    {
+        "results_42_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_42_subject_2": "National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    {
+        "results_42_subject_3": null
+    },
+    {
+        "results_42_title": "Hearings, Meetings, Proceedings, etc.: National Institute of Diabetes and Digestive and Kidney Diseases "
+    },
+    {
+        "results_42_toc_doc": "National Institute of Diabetes and Digestive and Kidney Diseases"
+    }
+]

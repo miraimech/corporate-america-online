@@ -1,0 +1,14 @@
+[
+    {
+        "releases_124_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_125_id": 251
+    },
+    {
+        "releases_125_link": "https://ec.europa.eu/eurostat/web/hicp"
+    },
+    {
+        "releases_125_name": "Harmonized Indices of Consumer Prices (HICP)"
+    }
+]

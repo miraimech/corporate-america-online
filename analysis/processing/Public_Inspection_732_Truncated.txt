@@ -1,0 +1,20 @@
+[
+    {
+        "results_78_agencies_0_url": "https://www.federalregister.gov/agencies/health-resources-and-services-administration"
+    },
+    {
+        "results_78_agency_names_0": "Health Resources and Services Administration"
+    },
+    {
+        "results_78_document_number": "2024-03952"
+    },
+    {
+        "results_78_editorial_note": null
+    },
+    {
+        "results_78_excerpts": null
+    },
+    {
+        "results_78_filed_at": "2024-02-26T08:45:00.000-05:00"
+    }
+]

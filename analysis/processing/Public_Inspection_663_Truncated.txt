@@ -1,0 +1,23 @@
+[
+    {
+        "results_67_agencies_0_raw_name": "Labor Department"
+    },
+    {
+        "results_67_agencies_0_slug": "labor-department"
+    },
+    {
+        "results_67_agencies_0_url": "https://www.federalregister.gov/agencies/labor-department"
+    },
+    {
+        "results_67_agency_names_0": "Labor Department"
+    },
+    {
+        "results_67_document_number": "2024-03941"
+    },
+    {
+        "results_67_editorial_note": null
+    },
+    {
+        "results_67_excerpts": null
+    }
+]

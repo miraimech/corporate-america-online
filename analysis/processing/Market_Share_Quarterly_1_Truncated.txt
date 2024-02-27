@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_0_dailyAvgVolInMillions": 37597.6
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_0_percentFifthQuintMktShare": "0.45"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_0_percentFifthQuintRange": "<=0.22"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_0_percentFirstQuintMktShare": "49.25"
+    }
+]

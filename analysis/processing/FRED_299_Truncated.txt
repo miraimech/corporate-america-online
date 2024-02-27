@@ -1,0 +1,8 @@
+[
+    {
+        "releases_300_notes": "The authors study the effects of the 1930s-era HOLC \"redlining\" maps on the long-run trajectories of neighborhoods. They calculate the data based on U.S. Census estimates for each area matched to the geocoded HOLC Neighborhoods, which are based on the geocoded renderings of the original Home Owners Loan Corporation (HOLC) maps for 149 cities."
+    },
+    {
+        "releases_300_press_release": false
+    }
+]

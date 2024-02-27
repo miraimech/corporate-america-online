@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_12_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_13_dailyAvgVolInMillions": 92.7
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_13_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_13_percentFifthQuintRange": "<=0.00"
+    }
+]

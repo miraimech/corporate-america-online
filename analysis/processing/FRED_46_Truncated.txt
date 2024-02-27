@@ -1,0 +1,23 @@
+[
+    {
+        "releases_133_press_release": false
+    },
+    {
+        "releases_133_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_133_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_134_id": 266
+    },
+    {
+        "releases_134_link": "http://www.boj.or.jp/en/statistics/boj/other/ac/index.htm/"
+    },
+    {
+        "releases_134_name": "Bank of Japan Accounts"
+    },
+    {
+        "releases_134_press_release": true
+    }
+]

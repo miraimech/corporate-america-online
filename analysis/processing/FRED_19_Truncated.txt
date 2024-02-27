@@ -1,0 +1,23 @@
+[
+    {
+        "releases_114_press_release": true
+    },
+    {
+        "releases_114_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_114_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_115_id": 230
+    },
+    {
+        "releases_115_link": "http://www.bls.gov/ilc/#productivity"
+    },
+    {
+        "releases_115_name": "International Comparisons of Manufacturing Productivity and Unit Labor Cost Trends"
+    },
+    {
+        "releases_115_press_release": true
+    }
+]

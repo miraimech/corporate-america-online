@@ -1,0 +1,17 @@
+[
+    {
+        "results_1_pdf_updated_at": "2024-02-23T08:45:31.000-05:00"
+    },
+    {
+        "results_1_pdf_url": "https://public-inspection.federalregister.gov/2024-03982.pdf"
+    },
+    {
+        "results_1_publication_date": "2024-02-27"
+    },
+    {
+        "results_1_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/982.txt"
+    },
+    {
+        "results_1_subject_1": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic:"
+    }
+]

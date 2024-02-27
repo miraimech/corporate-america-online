@@ -1,0 +1,5 @@
+[
+    {
+        "releases_209_notes": "The Sub-Saharan Africa Regional Economic Outlook provides information on recent economic developments and prospects for countries in Sub-Saharan Africa. Data for the REO for Sub-Saharan Africa is prepared in conjunction with the semi-annual World Economic Outlook exercises, spring and fall. Data are consistent with the projections underlying the WEO. REO aggregate data may differ from WEO aggregates due to differences in group membership. Composite data for country groups are weighted averages of data for individual countries. Arithmetic weighted averages are used for all concepts except for inflation and broad money, for which geometric averages are used. PPP GDP weights from the WEO database are used for the aggregation of real GDP growth, real non-oil GDP growth, real per capita GDP growth, investment, national savings, broad money, claims on the nonfinancial private sector, and real and nominal effective exchange rates. Aggregates for other concepts are weighted by GDP in U.S. dollars at market exchange rates."
+    }
+]

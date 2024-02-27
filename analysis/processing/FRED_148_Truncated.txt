@@ -1,0 +1,23 @@
+[
+    {
+        "releases_206_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_206_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_207_id": 367
+    },
+    {
+        "releases_207_link": "http://data.imf.org/?sk=3E40CD07-7BD1-404F-BFCE-24018D2D85D2"
+    },
+    {
+        "releases_207_name": "Western Hemisphere Regional Economic Outlook"
+    },
+    {
+        "releases_207_press_release": false
+    },
+    {
+        "releases_207_realtime_end": "2024-02-26"
+    }
+]

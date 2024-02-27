@@ -1,0 +1,14 @@
+[
+    {
+        "releases_135_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_136_id": 268
+    },
+    {
+        "releases_136_link": "http://www.ons.gov.uk/ons/taxonomy/search/index.html?newquery=*&nscl=Main+Aggregates+of+National+Accounts&nscl-orig=Main+Aggregates+of+National+Accounts&content-type=publicationContentTypes&sortDirection=DESCENDING&sortBy=pubdate"
+    },
+    {
+        "releases_136_name": "United Kingdom Main Aggregates of National Accounts"
+    }
+]

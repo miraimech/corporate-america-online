@@ -1,0 +1,17 @@
+[
+    {
+        "results_147_pdf_url": "https://public-inspection.federalregister.gov/2024-04046.pdf"
+    },
+    {
+        "results_147_publication_date": "2024-02-27"
+    },
+    {
+        "results_147_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/046.txt"
+    },
+    {
+        "results_147_subject_1": "Waiver Period for Water Quality Certification Application:"
+    },
+    {
+        "results_147_subject_2": "Idaho Power Co."
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "results_110_agencies_0_raw_name": "Defense Department"
+    },
+    {
+        "results_110_agencies_0_slug": "defense-department"
+    },
+    {
+        "results_110_agencies_0_url": "https://www.federalregister.gov/agencies/defense-department"
+    },
+    {
+        "results_110_agency_names_0": "Defense Department"
+    },
+    {
+        "results_110_document_number": "2024-03994"
+    },
+    {
+        "results_110_editorial_note": null
+    },
+    {
+        "results_110_excerpts": null
+    }
+]

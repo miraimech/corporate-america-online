@@ -1,0 +1,26 @@
+[
+    {
+        "releases_164_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_165_id": 313
+    },
+    {
+        "releases_165_link": "https://www.frbatlanta.org/research/inflationproject/stickyprice/"
+    },
+    {
+        "releases_165_name": "Sticky Price CPI"
+    },
+    {
+        "releases_165_press_release": true
+    },
+    {
+        "releases_165_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_165_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_166_id": 315
+    }
+]

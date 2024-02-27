@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_17_percentThirdQuintMktShare": "4.67"
+    },
+    {
+        "pd_marketshare_quarterly_others_17_percentThirdQuintRange": "0.34 - 1.27"
+    },
+    {
+        "pd_marketshare_quarterly_others_17_security": "SPECIFIED POOLS CASH TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_quarterly_others_17_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_dailyAvgVolInMillions": null
+    }
+]

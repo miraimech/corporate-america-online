@@ -1,0 +1,26 @@
+[
+    {
+        "releases_298_press_release": true
+    },
+    {
+        "releases_298_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_298_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_299_id": 490
+    },
+    {
+        "releases_299_link": "https://www.bls.gov/mfp/"
+    },
+    {
+        "releases_299_name": "Industry Productivity"
+    },
+    {
+        "releases_299_press_release": true
+    },
+    {
+        "releases_299_realtime_end": "2024-02-26"
+    }
+]

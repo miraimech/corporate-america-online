@@ -1,0 +1,20 @@
+[
+    {
+        "releases_70_link": "https://www.census.gov/data/tables/time-series/demo/health-insurance/historical-series/hib.html"
+    },
+    {
+        "releases_70_name": "Health Insurance Coverage"
+    },
+    {
+        "releases_70_press_release": false
+    },
+    {
+        "releases_70_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_70_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_71_id": 153
+    }
+]

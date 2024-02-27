@@ -1,0 +1,17 @@
+[
+    {
+        "releases_18_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_18_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_190_id": 346
+    },
+    {
+        "releases_190_link": "https://www.census.gov/programs-surveys/saipe.html"
+    },
+    {
+        "releases_190_name": "Small Area Income and Poverty Estimates"
+    }
+]

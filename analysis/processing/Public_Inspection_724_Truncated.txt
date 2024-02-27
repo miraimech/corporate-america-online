@@ -1,0 +1,20 @@
+[
+    {
+        "results_76_subject_3": null
+    },
+    {
+        "results_76_title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Fee Waiver Request "
+    },
+    {
+        "results_76_toc_doc": "Fee Waiver Request"
+    },
+    {
+        "results_76_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_76_type": "Notice"
+    },
+    {
+        "results_77_agencies_0_id": 136
+    }
+]

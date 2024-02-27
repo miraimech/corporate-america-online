@@ -1,0 +1,14 @@
+[
+    {
+        "results_57_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_57_filing_type": "regular"
+    },
+    {
+        "results_57_html_url": "https://www.federalregister.gov/public-inspection/2024-03926/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-foxglove"
+    },
+    {
+        "results_57_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03926"
+    }
+]

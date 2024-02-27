@@ -1,0 +1,20 @@
+[
+    {
+        "releases_289_notes": "U.S. total energy production, prices, carbon dioxide emissions, and consumption of energy from all sources by sector."
+    },
+    {
+        "releases_289_press_release": true
+    },
+    {
+        "releases_289_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_289_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_28_id": 70
+    },
+    {
+        "releases_28_name": "Monthly Treasury Inflation-Indexed Securities"
+    }
+]

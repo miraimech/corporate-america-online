@@ -1,0 +1,26 @@
+[
+    {
+        "releases_14_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_150_id": 288
+    },
+    {
+        "releases_150_link": "http://www.census.gov/services/"
+    },
+    {
+        "releases_150_name": "Quarterly Services Survey"
+    },
+    {
+        "releases_150_press_release": true
+    },
+    {
+        "releases_150_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_150_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_151_id": 289
+    }
+]

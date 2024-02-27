@@ -1,0 +1,23 @@
+[
+    {
+        "results_1_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03982"
+    },
+    {
+        "results_1_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_1_num_pages": 4
+    },
+    {
+        "results_1_page_views_count": 15
+    },
+    {
+        "results_1_page_views_last_updated": "2024-02-27 04:15:07 -0500"
+    },
+    {
+        "results_1_pdf_file_name": "2024-03982_PI.pdf"
+    },
+    {
+        "results_1_pdf_file_size": 106910
+    }
+]

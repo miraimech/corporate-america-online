@@ -1,0 +1,20 @@
+[
+    {
+        "releases_211_press_release": true
+    },
+    {
+        "releases_211_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_211_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_212_id": 372
+    },
+    {
+        "releases_212_link": "https://www.chicagofed.org/research/data/cfsec/current-data"
+    },
+    {
+        "releases_212_name": "Chicago Fed Survey of Economic Conditions"
+    }
+]

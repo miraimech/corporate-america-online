@@ -1,0 +1,23 @@
+[
+    {
+        "releases_82_name": "Mexican Foreign Exchange Intervention"
+    },
+    {
+        "releases_82_press_release": false
+    },
+    {
+        "releases_82_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_82_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_83_id": 179
+    },
+    {
+        "releases_83_link": "http://www.census.gov/mrts/www/ecomm.html"
+    },
+    {
+        "releases_83_name": "Quarterly Retail E-Commerce Sales"
+    }
+]

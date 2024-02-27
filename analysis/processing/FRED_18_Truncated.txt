@@ -1,0 +1,23 @@
+[
+    {
+        "releases_113_name": "Quarterly Starts and Completions by Purpose and Design"
+    },
+    {
+        "releases_113_press_release": false
+    },
+    {
+        "releases_113_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_113_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_114_id": 229
+    },
+    {
+        "releases_114_link": "http://www.census.gov/construction/c30/c30index.html"
+    },
+    {
+        "releases_114_name": "Construction Spending"
+    }
+]

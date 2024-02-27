@@ -1,0 +1,23 @@
+[
+    {
+        "releases_221_press_release": true
+    },
+    {
+        "releases_221_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_221_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_222_id": 384
+    },
+    {
+        "releases_222_link": "http://www.bls.gov/cps/earnings.htm#minwage"
+    },
+    {
+        "releases_222_name": "Characteristics of Minimum Wage Workers"
+    },
+    {
+        "releases_222_press_release": false
+    }
+]

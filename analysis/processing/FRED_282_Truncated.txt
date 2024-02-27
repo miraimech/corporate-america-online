@@ -1,0 +1,20 @@
+[
+    {
+        "releases_290_press_release": true
+    },
+    {
+        "releases_290_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_290_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_291_id": 482
+    },
+    {
+        "releases_291_link": "https://www.fdic.gov/analysis/quarterly-banking-profile/"
+    },
+    {
+        "releases_291_name": "FDIC Quarterly Banking Profile"
+    }
+]

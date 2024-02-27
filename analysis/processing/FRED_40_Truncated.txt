@@ -1,0 +1,5 @@
+[
+    {
+        "releases_12_notes": "The Manufacturing and Trade Inventories and Sales estimates are based on data from three surveys: the Monthly Retail Trade Survey, the Monthly Wholesale Trade Survey, and the Manufacturers\u2019 Shipments, Inventories, and Orders Survey. Data for the wholesale and manufacturing sectors are unrevised from the most recent Monthly Wholesale Trade Report and the Full Report on Manufacturers\u2019 Shipments, Inventories and orders. Data from the Retail sector is revised and presented in more detail from the most recent Advance Economic Indicators Report. For more information on these surveys see the links at: www.census.gov/retail/, www.census.gov/wholesale/, and www.census.gov/manufacturing/m3/.\r\nDescription of the survey as provided by the Census, https://census.gov/mtis/www/data/pdf/mtis_current.pdf."
+    }
+]

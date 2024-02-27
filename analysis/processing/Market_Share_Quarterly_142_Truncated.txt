@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_11_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_dailyAvgVolInMillions": 730.1
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentFifthQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentFifthQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentFirstQuintMktShare": "61.69"
+    }
+]

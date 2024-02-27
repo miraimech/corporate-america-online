@@ -1,0 +1,23 @@
+[
+    {
+        "results_95_toc_doc": "Leonardo S.p.a. Helicopters"
+    },
+    {
+        "results_95_toc_subject": "Airworthiness Directives:"
+    },
+    {
+        "results_95_type": "Proposed Rule"
+    },
+    {
+        "results_96_agencies_0_id": 32
+    },
+    {
+        "results_96_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/32"
+    },
+    {
+        "results_96_agencies_0_name": "Army Department"
+    },
+    {
+        "results_96_agencies_0_parent_id": 103
+    }
+]

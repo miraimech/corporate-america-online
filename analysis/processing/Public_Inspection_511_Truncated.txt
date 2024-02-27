@@ -1,0 +1,14 @@
+[
+    {
+        "results_42_excerpts": null
+    },
+    {
+        "results_42_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_42_filing_type": "regular"
+    },
+    {
+        "results_42_html_url": "https://www.federalregister.gov/public-inspection/2024-03910/hearings-meetings-proceedings-etc-national-institute-of-diabetes-and-digestive-and-kidney-diseases"
+    }
+]

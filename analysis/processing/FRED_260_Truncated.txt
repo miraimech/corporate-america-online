@@ -1,0 +1,5 @@
+[
+    {
+        "releases_278_name": "Weekly Economic Index (Lewis-Mertens-Stock)"
+    }
+]

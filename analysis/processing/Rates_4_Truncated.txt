@@ -1,0 +1,26 @@
+[
+    {
+        "refRates_2_volumeInBillions": 279
+    },
+    {
+        "refRates_3_effectiveDate": "2024-02-23"
+    },
+    {
+        "refRates_3_percentPercentile1": 5.25
+    },
+    {
+        "refRates_3_percentPercentile25": 5.3
+    },
+    {
+        "refRates_3_percentPercentile75": 5.31
+    },
+    {
+        "refRates_3_percentPercentile99": 5.34
+    },
+    {
+        "refRates_3_percentRate": 5.3
+    },
+    {
+        "refRates_3_revisionIndicator": ""
+    }
+]

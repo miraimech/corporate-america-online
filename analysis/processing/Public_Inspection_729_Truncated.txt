@@ -1,0 +1,14 @@
+[
+    {
+        "results_77_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/951.txt"
+    },
+    {
+        "results_77_subject_1": "Importation or Exportation of Liquified Natural Gas or Electric Energy; Applications, Authorizations, etc.:"
+    },
+    {
+        "results_77_subject_2": "Powerex Corp."
+    },
+    {
+        "results_77_subject_3": null
+    }
+]

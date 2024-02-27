@@ -1,0 +1,26 @@
+[
+    {
+        "releases_92_press_release": true
+    },
+    {
+        "releases_92_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_92_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_93_id": 192
+    },
+    {
+        "releases_93_link": "http://www.bls.gov/jlt/"
+    },
+    {
+        "releases_93_name": "Job Openings and Labor Turnover Survey"
+    },
+    {
+        "releases_93_press_release": true
+    },
+    {
+        "releases_93_realtime_end": "2024-02-26"
+    }
+]

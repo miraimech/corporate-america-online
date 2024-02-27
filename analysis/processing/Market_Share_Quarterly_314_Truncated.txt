@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_34_percentSecondQuintMktShare": "27.60"
+    },
+    {
+        "pd_marketshare_quarterly_totals_34_percentSecondQuintRange": "1.69 - 9.64"
+    },
+    {
+        "pd_marketshare_quarterly_totals_34_percentThirdQuintMktShare": "1.56"
+    },
+    {
+        "pd_marketshare_quarterly_totals_34_percentThirdQuintRange": "0.00 - 1.23"
+    },
+    {
+        "pd_marketshare_quarterly_totals_34_security": "OBLIGATIONS DUE IN > 5 YRS, BUT <= 10 YRS"
+    }
+]

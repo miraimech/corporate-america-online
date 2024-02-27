@@ -1,0 +1,5 @@
+[
+    {
+        "releases_133_notes": "The data collection consists of weekly observations of bond prices for U.S. and state bonds from January 1855 through November 1865. The data are drawn from the \u201cNotes on the Money Market\u201d section of The Bankers\u2019 Magazine and Statistical Register; due to limitations of the magazine, The New York Times\u2019 summary of daily trading on the New York Stock Exchange was used to complete each series in the best possible manner.\r\n\r\nFor a more thorough explanation of the collection as well as how it is understood in a historical context, see:\r\nDwyer, G.P, Jr., R.W. Hafer and W.E. Weber. (1999) \u201cWeekly U.S. and State Bond Prices, 1855-1865,\u201d Historical Methods (32:1): 37-42."
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "releases_45_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_45_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_46_id": 100
+    },
+    {
+        "releases_46_link": "https://www.frbdiscountwindow.org/Home/Pages/Discount-Rates/Historical-Discount-Rates"
+    },
+    {
+        "releases_46_name": "Seasonal Credit Rate"
+    },
+    {
+        "releases_46_press_release": false
+    },
+    {
+        "releases_46_realtime_end": "2024-02-26"
+    }
+]

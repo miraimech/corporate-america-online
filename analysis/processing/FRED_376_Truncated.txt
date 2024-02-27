@@ -1,0 +1,26 @@
+[
+    {
+        "releases_88_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_89_id": 188
+    },
+    {
+        "releases_89_link": "http://www.bls.gov/mxp/"
+    },
+    {
+        "releases_89_name": "U.S. Import and Export Price Indexes"
+    },
+    {
+        "releases_89_press_release": true
+    },
+    {
+        "releases_89_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_89_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_8_id": 19
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "releases_215_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_215_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_216_id": 376
+    },
+    {
+        "releases_216_link": "http://dallasfed.org/microsites/research/surveys/tssos/index.cfm"
+    },
+    {
+        "releases_216_name": "Texas Service Sector Outlook Survey"
+    }
+]

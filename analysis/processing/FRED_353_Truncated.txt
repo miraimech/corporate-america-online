@@ -1,0 +1,20 @@
+[
+    {
+        "releases_63_press_release": false
+    },
+    {
+        "releases_63_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_63_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_64_id": 131
+    },
+    {
+        "releases_64_link": "http://federalreserve.gov/releases/g13/"
+    },
+    {
+        "releases_64_name": "G.13 Selected Interest Rates"
+    }
+]

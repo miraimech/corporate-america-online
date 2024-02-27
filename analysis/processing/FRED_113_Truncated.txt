@@ -1,0 +1,17 @@
+[
+    {
+        "releases_184_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_184_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_185_id": 337
+    },
+    {
+        "releases_185_link": "http://www.federalreserve.gov/econresdata/notes/feds-notes/2014/updating-the-labor-market-conditions-index-20141001.html"
+    },
+    {
+        "releases_185_name": "Federal Reserve Board of Governors Labor Market Conditions Index"
+    }
+]

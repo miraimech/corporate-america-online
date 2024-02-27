@@ -1,0 +1,26 @@
+[
+    {
+        "releases_19_press_release": true
+    },
+    {
+        "releases_19_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_19_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_1_id": 10
+    },
+    {
+        "releases_1_link": "http://www.bls.gov/cpi/"
+    },
+    {
+        "releases_1_name": "Consumer Price Index"
+    },
+    {
+        "releases_1_press_release": true
+    },
+    {
+        "releases_1_realtime_end": "2024-02-26"
+    }
+]

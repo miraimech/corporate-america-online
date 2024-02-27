@@ -1,0 +1,20 @@
+[
+    {
+        "releases_305_press_release": true
+    },
+    {
+        "releases_305_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_305_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_306_id": 503
+    },
+    {
+        "releases_306_link": "https://www.zillow.com/research/data/"
+    },
+    {
+        "releases_306_name": "Zillow Home Value Index (ZHVI)"
+    }
+]

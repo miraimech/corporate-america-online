@@ -1,0 +1,20 @@
+[
+    {
+        "results_31_publication_date": "2024-02-27"
+    },
+    {
+        "results_31_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/898.txt"
+    },
+    {
+        "results_31_subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:"
+    },
+    {
+        "results_31_subject_2": "LCH SA"
+    },
+    {
+        "results_31_subject_3": null
+    },
+    {
+        "results_31_title": "Self-Regulatory Organizations; Proposed Rule Changes: LCH SA "
+    }
+]

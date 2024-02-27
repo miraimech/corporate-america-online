@@ -1,0 +1,23 @@
+[
+    {
+        "releases_128_link": "http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1"
+    },
+    {
+        "releases_128_name": "Penn World Table 7.1"
+    },
+    {
+        "releases_128_press_release": false
+    },
+    {
+        "releases_128_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_128_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_129_id": 260
+    },
+    {
+        "releases_129_link": "http://www.clearpoint.org/resource-center/consumer-distress-index/"
+    }
+]

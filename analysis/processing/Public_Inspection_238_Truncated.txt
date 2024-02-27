@@ -1,0 +1,14 @@
+[
+    {
+        "results_137_filing_type": "regular"
+    },
+    {
+        "results_137_html_url": "https://www.federalregister.gov/public-inspection/2024-04027/clean-air-act-operating-permit-program-petition-for-objection-to-state-operating-permit-for-covanta"
+    },
+    {
+        "results_137_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-04027"
+    },
+    {
+        "results_137_last_public_inspection_issue": "2024-02-26"
+    }
+]

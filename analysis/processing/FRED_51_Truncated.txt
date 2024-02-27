@@ -1,0 +1,23 @@
+[
+    {
+        "releases_139_id": 271
+    },
+    {
+        "releases_139_link": "http://www.ecb.int/press/pr/wfs/"
+    },
+    {
+        "releases_139_name": "Weekly Financial Statements of the Eurosystem"
+    },
+    {
+        "releases_139_press_release": true
+    },
+    {
+        "releases_139_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_139_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_13_id": 27
+    }
+]

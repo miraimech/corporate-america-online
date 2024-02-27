@@ -1,0 +1,17 @@
+[
+    {
+        "releases_306_notes": "One of Zillow\u2019s most cited metrics is ZHVI, the Zillow Home Value Index. \r\n\r\nIt tells us the typical home value in a given geography (metro area, city, ZIP code, etc.), now and over time."
+    },
+    {
+        "releases_306_press_release": true
+    },
+    {
+        "releases_306_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_306_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_307_id": 504
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_30_percentSecondQuintRange": "2.43 - 7.93"
+    },
+    {
+        "pd_marketshare_ytd_others_30_percentThirdQuintMktShare": "4.41"
+    },
+    {
+        "pd_marketshare_ytd_others_30_percentThirdQuintRange": "0.50 - 1.25"
+    },
+    {
+        "pd_marketshare_ytd_others_30_security": "DUE IN > 5 YRS, BUT <= 10 YRS"
+    },
+    {
+        "pd_marketshare_ytd_others_30_securityType": "BELOW INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    }
+]

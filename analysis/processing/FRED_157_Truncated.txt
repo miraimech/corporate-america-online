@@ -1,0 +1,5 @@
+[
+    {
+        "releases_211_notes": "The Hornstein-Kudlyak-Lange Non-Employment Index (NEI) is an alternative to the standard unemployment rate that includes all non-employed individuals and accounts for persistent differences in their labor market attachment. It provides a more comprehensive reading of labor market health and is based on research first published by Richmond Fed economists Andreas Hornstein and Marianna Kudlyak, and McGill University economist Fabian Lange."
+    }
+]

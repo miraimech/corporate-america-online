@@ -1,0 +1,23 @@
+[
+    {
+        "releases_311_press_release": true
+    },
+    {
+        "releases_311_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_311_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_312_id": 670
+    },
+    {
+        "releases_312_link": "https://www.sydneyludvigson.com/macro-and-financial-uncertainty-indexes"
+    },
+    {
+        "releases_312_name": "Macroeconomic Uncertainty Index for United States"
+    },
+    {
+        "releases_312_press_release": true
+    }
+]

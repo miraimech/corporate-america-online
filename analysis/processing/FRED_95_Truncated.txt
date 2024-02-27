@@ -1,0 +1,14 @@
+[
+    {
+        "releases_173_notes": "The Trimmed Mean PCE inflation rate is an alternative measure of core inflation in the price index for personal consumption expenditures (PCE). It is calculated by staff at the Dallas Fed, using data from the Bureau of Economic Analysis (BEA)."
+    },
+    {
+        "releases_173_press_release": true
+    },
+    {
+        "releases_173_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_173_realtime_start": "2024-02-26"
+    }
+]

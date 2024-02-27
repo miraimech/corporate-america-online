@@ -1,0 +1,17 @@
+[
+    {
+        "results_29_agencies_0_name": "National Credit Union Administration"
+    },
+    {
+        "results_29_agencies_0_parent_id": null
+    },
+    {
+        "results_29_agencies_0_raw_name": "NATIONAL CREDIT UNION ADMINISTRATION"
+    },
+    {
+        "results_29_agencies_0_slug": "national-credit-union-administration"
+    },
+    {
+        "results_29_agencies_0_url": "https://www.federalregister.gov/agencies/national-credit-union-administration"
+    }
+]

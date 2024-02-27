@@ -1,0 +1,23 @@
+[
+    {
+        "releases_168_press_release": false
+    },
+    {
+        "releases_168_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_168_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_169_id": 319
+    },
+    {
+        "releases_169_link": "https://www.bis.org/statistics/eer/index.htm"
+    },
+    {
+        "releases_169_name": "BIS Effective Exchange Rate Indices"
+    },
+    {
+        "releases_169_press_release": false
+    }
+]

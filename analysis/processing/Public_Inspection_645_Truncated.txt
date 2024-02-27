@@ -1,0 +1,17 @@
+[
+    {
+        "results_63_subject_3": null
+    },
+    {
+        "results_63_title": "Culturally Significant Objects Imported for Exhibition: Art and War in the Renaissance: The Battle of Pavia Tapestries "
+    },
+    {
+        "results_63_toc_doc": "Art and War in the Renaissance: The Battle of Pavia Tapestries"
+    },
+    {
+        "results_63_toc_subject": "Culturally Significant Objects Imported for Exhibition:"
+    },
+    {
+        "results_63_type": "Notice"
+    }
+]

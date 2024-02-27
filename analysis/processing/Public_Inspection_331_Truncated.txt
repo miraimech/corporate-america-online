@@ -1,0 +1,20 @@
+[
+    {
+        "results_150_subject_1": "Airworthiness Directives:"
+    },
+    {
+        "results_150_subject_2": "Bell Textron Canada Limited Helicopters"
+    },
+    {
+        "results_150_subject_3": null
+    },
+    {
+        "results_150_title": "Airworthiness Directives: Bell Textron Canada Limited Helicopters "
+    },
+    {
+        "results_150_toc_doc": "Bell Textron Canada Limited Helicopters"
+    },
+    {
+        "results_150_toc_subject": "Airworthiness Directives:"
+    }
+]

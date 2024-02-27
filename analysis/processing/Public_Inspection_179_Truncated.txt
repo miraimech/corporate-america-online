@@ -1,0 +1,20 @@
+[
+    {
+        "results_128_agency_names_0": "Federal Communications Commission"
+    },
+    {
+        "results_128_document_number": "2024-04018"
+    },
+    {
+        "results_128_editorial_note": null
+    },
+    {
+        "results_128_excerpts": null
+    },
+    {
+        "results_128_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_128_filing_type": "regular"
+    }
+]

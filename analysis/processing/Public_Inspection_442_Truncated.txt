@@ -1,0 +1,17 @@
+[
+    {
+        "results_31_filing_type": "regular"
+    },
+    {
+        "results_31_html_url": "https://www.federalregister.gov/public-inspection/2024-03898/self-regulatory-organizations-proposed-rule-changes-lch-sa"
+    },
+    {
+        "results_31_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03898"
+    },
+    {
+        "results_31_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_31_num_pages": 2
+    }
+]

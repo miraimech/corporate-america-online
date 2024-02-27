@@ -1,0 +1,14 @@
+[
+    {
+        "releases_162_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_163_id": 308
+    },
+    {
+        "releases_163_link": "http://www.bls.gov/sae/"
+    },
+    {
+        "releases_163_name": "State and Metro Area Employment, Hours, and Earnings"
+    }
+]

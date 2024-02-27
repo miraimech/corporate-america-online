@@ -1,0 +1,20 @@
+[
+    {
+        "results_65_pdf_url": "https://public-inspection.federalregister.gov/2024-03936.pdf"
+    },
+    {
+        "results_65_publication_date": "2024-02-27"
+    },
+    {
+        "results_65_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/936.txt"
+    },
+    {
+        "results_65_subject_1": "Privacy Act"
+    },
+    {
+        "results_65_subject_2": null
+    },
+    {
+        "results_65_subject_3": null
+    }
+]

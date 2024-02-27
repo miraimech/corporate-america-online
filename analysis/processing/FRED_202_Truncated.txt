@@ -1,0 +1,17 @@
+[
+    {
+        "releases_239_notes": "Reprinted with permission. Copyright \u00a9 2016, Equifax. All rights reserved. Reproduction of median credit score per county in any form is prohibited except with the prior written permission of Equifax."
+    },
+    {
+        "releases_239_press_release": false
+    },
+    {
+        "releases_239_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_239_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_23_id": 59
+    }
+]

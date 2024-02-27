@@ -1,0 +1,20 @@
+[
+    {
+        "releases_83_notes": "Link to the survey provided by the Census https://census.gov/retail/mrts/www/data/pdf/ec_current.pdf"
+    },
+    {
+        "releases_83_press_release": true
+    },
+    {
+        "releases_83_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_83_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_84_id": 180
+    },
+    {
+        "releases_84_link": "http://www.dol.gov/ui/data.pdf"
+    }
+]

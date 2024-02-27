@@ -1,0 +1,23 @@
+[
+    {
+        "releases_78_name": "House Price Index"
+    },
+    {
+        "releases_78_press_release": false
+    },
+    {
+        "releases_78_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_78_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_79_id": 172
+    },
+    {
+        "releases_79_link": "http://www.mof.go.jp/english/international_policy/reference/feio/"
+    },
+    {
+        "releases_79_name": "Japan Foreign Exchange Intervention"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "releases_194_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_194_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_195_id": 354
+    },
+    {
+        "releases_195_link": "https://www.federalreserve.gov/data/three-factor-nominal-term-structure-model.htm"
+    },
+    {
+        "releases_195_name": "An Arbitrage-Free Three-Factor Term Structure Model and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates"
+    }
+]

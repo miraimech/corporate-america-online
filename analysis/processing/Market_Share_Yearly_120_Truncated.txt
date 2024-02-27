@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_0_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_ytd_others_10_dailyAvgVolInMillions": 5627.1
+    },
+    {
+        "pd_marketshare_ytd_others_10_percentFifthQuintMktShare": "0.07"
+    },
+    {
+        "pd_marketshare_ytd_others_10_percentFifthQuintRange": "<=0.06"
+    },
+    {
+        "pd_marketshare_ytd_others_10_percentFirstQuintMktShare": "62.86"
+    }
+]

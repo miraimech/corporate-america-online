@@ -1,0 +1,17 @@
+[
+    {
+        "results_144_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/210"
+    },
+    {
+        "results_144_agencies_0_name": "General Services Administration"
+    },
+    {
+        "results_144_agencies_0_parent_id": null
+    },
+    {
+        "results_144_agencies_0_raw_name": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+        "results_144_agencies_0_slug": "general-services-administration"
+    }
+]

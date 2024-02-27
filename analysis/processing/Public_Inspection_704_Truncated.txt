@@ -1,0 +1,20 @@
+[
+    {
+        "results_73_agencies_0_raw_name": "Social Security Administration"
+    },
+    {
+        "results_73_agencies_0_slug": "social-security-administration"
+    },
+    {
+        "results_73_agencies_0_url": "https://www.federalregister.gov/agencies/social-security-administration"
+    },
+    {
+        "results_73_agency_names_0": "Social Security Administration"
+    },
+    {
+        "results_73_document_number": "2024-03947"
+    },
+    {
+        "results_73_editorial_note": null
+    }
+]

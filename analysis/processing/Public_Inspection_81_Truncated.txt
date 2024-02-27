@@ -1,0 +1,20 @@
+[
+    {
+        "results_112_agencies_0_parent_id": 497
+    },
+    {
+        "results_112_agencies_0_raw_name": "Internal Revenue Service"
+    },
+    {
+        "results_112_agencies_0_slug": "internal-revenue-service"
+    },
+    {
+        "results_112_agencies_0_url": "https://www.federalregister.gov/agencies/internal-revenue-service"
+    },
+    {
+        "results_112_agency_names_0": "Internal Revenue Service"
+    },
+    {
+        "results_112_document_number": "2024-03996"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_62_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_62_filing_type": "regular"
+    },
+    {
+        "results_62_html_url": "https://www.federalregister.gov/public-inspection/2024-03932/application-pe-hydro-generation-llc"
+    },
+    {
+        "results_62_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03932"
+    },
+    {
+        "results_62_last_public_inspection_issue": "2024-02-26"
+    }
+]

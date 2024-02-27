@@ -1,0 +1,17 @@
+[
+    {
+        "results_149_publication_date": "2024-02-27"
+    },
+    {
+        "results_149_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/048.txt"
+    },
+    {
+        "results_149_subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_149_subject_2": "Russellville Solar LLC"
+    },
+    {
+        "results_149_subject_3": null
+    }
+]

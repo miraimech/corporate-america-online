@@ -1,0 +1,17 @@
+[
+    {
+        "results_117_title": "Hearings, Meetings, Proceedings, etc.: Taxpayer Advocacy Panel Taxpayer Communications Project Committee "
+    },
+    {
+        "results_117_toc_doc": "Taxpayer Advocacy Panel Taxpayer Communications Project Committee"
+    },
+    {
+        "results_117_toc_subject": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_117_type": "Notice"
+    },
+    {
+        "results_118_agencies_0_id": 254
+    }
+]

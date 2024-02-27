@@ -1,0 +1,23 @@
+[
+    {
+        "releases_24_link": "http://research.stlouisfed.org/publications/mt/"
+    },
+    {
+        "releases_24_name": "Money Zero Maturity (MZM)"
+    },
+    {
+        "releases_24_press_release": false
+    },
+    {
+        "releases_24_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_24_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_250_id": 428
+    },
+    {
+        "releases_250_link": "http://dhihiringindicators.com/"
+    }
+]

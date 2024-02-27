@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_31_percentThirdQuintRange": "0.00 - 0.93"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_31_security": "DUE IN > 10 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_31_securityType": "BELOW INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_32_dailyAvgVolInMillions": 4.9
+    }
+]

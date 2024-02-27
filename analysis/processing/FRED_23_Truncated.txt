@@ -1,0 +1,23 @@
+[
+    {
+        "releases_118_id": 236
+    },
+    {
+        "releases_118_link": "https://www.nar.realtor/research-and-statistics/housing-statistics/housing-affordability-index"
+    },
+    {
+        "releases_118_name": "Monthly Housing Affordability Index"
+    },
+    {
+        "releases_118_press_release": true
+    },
+    {
+        "releases_118_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_118_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_119_id": 238
+    }
+]

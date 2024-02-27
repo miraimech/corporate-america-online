@@ -1,0 +1,20 @@
+[
+    {
+        "results_17_toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_17_type": "Notice"
+    },
+    {
+        "results_18_agencies_0_id": 44
+    },
+    {
+        "results_18_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/44"
+    },
+    {
+        "results_18_agencies_0_name": "Centers for Disease Control and Prevention"
+    },
+    {
+        "results_18_agencies_0_parent_id": 221
+    }
+]

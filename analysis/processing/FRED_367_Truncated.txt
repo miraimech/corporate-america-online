@@ -1,0 +1,26 @@
+[
+    {
+        "releases_79_press_release": false
+    },
+    {
+        "releases_79_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_79_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_7_id": 18
+    },
+    {
+        "releases_7_link": "http://www.federalreserve.gov/releases/h15/"
+    },
+    {
+        "releases_7_name": "H.15 Selected Interest Rates"
+    },
+    {
+        "releases_7_press_release": true
+    },
+    {
+        "releases_7_realtime_end": "2024-02-26"
+    }
+]

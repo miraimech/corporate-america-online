@@ -1,0 +1,17 @@
+[
+    {
+        "results_25_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/891.txt"
+    },
+    {
+        "results_25_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_25_subject_2": "Cost Accounting Standards Board Agenda"
+    },
+    {
+        "results_25_subject_3": null
+    },
+    {
+        "results_25_title": "Hearings, Meetings, Proceedings, etc.: Cost Accounting Standards Board Agenda "
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "releases_102_id": 202
+    },
+    {
+        "releases_102_link": "http://www.bls.gov/fls/intl_unemployment_rates_monthly.htm"
+    },
+    {
+        "releases_102_name": "International Unemployment Rates and Employment Indexes"
+    },
+    {
+        "releases_102_press_release": false
+    },
+    {
+        "releases_102_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_102_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_103_id": 203
+    }
+]

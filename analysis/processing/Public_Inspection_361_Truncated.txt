@@ -1,0 +1,17 @@
+[
+    {
+        "results_19_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_19_subject_2": "New England Fishery Management Council"
+    },
+    {
+        "results_19_subject_3": null
+    },
+    {
+        "results_19_title": "Hearings, Meetings, Proceedings, etc.: New England Fishery Management Council "
+    },
+    {
+        "results_19_toc_doc": "New England Fishery Management Council"
+    }
+]

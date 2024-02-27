@@ -1,0 +1,23 @@
+[
+    {
+        "releases_157_link": "http://www.dallasfed.org/research/econdata/tx-emp.cfm"
+    },
+    {
+        "releases_157_name": "Texas Employment Data"
+    },
+    {
+        "releases_157_press_release": true
+    },
+    {
+        "releases_157_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_157_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_158_id": 301
+    },
+    {
+        "releases_158_name": "Real Money Stock Measures"
+    }
+]

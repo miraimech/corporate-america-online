@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_26_percentSecondQuintRange": "4.07 - 9.08"
+    },
+    {
+        "pd_marketshare_quarterly_others_26_percentThirdQuintMktShare": "10.46"
+    },
+    {
+        "pd_marketshare_quarterly_others_26_percentThirdQuintRange": "0.78 - 2.84"
+    },
+    {
+        "pd_marketshare_quarterly_others_26_security": "DUE IN > 5 YRS, BUT <= 10 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_others_26_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    }
+]

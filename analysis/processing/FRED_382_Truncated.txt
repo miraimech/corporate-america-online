@@ -1,0 +1,26 @@
+[
+    {
+        "releases_93_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_94_id": 193
+    },
+    {
+        "releases_94_name": "Money Velocity"
+    },
+    {
+        "releases_94_press_release": false
+    },
+    {
+        "releases_94_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_94_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_95_id": 194
+    },
+    {
+        "releases_95_link": "http://www.adpemploymentreport.com/"
+    }
+]

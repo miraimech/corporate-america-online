@@ -1,0 +1,26 @@
+[
+    {
+        "releases_46_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_47_id": 101
+    },
+    {
+        "releases_47_link": "http://www.federalreserve.gov/fomc/"
+    },
+    {
+        "releases_47_name": "FOMC Press Release"
+    },
+    {
+        "releases_47_press_release": true
+    },
+    {
+        "releases_47_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_47_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_48_id": 102
+    }
+]

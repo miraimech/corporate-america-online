@@ -1,0 +1,23 @@
+[
+    {
+        "releases_280_id": 469
+    },
+    {
+        "releases_280_link": "https://oui.doleta.gov/unemploy/DataDashboard.asp"
+    },
+    {
+        "releases_280_name": "State Unemployment Insurance Weekly Claims Report"
+    },
+    {
+        "releases_280_press_release": true
+    },
+    {
+        "releases_280_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_280_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_281_id": 470
+    }
+]

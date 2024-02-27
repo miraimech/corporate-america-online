@@ -1,0 +1,14 @@
+[
+    {
+        "refRates_5_percentRate": 5.31
+    },
+    {
+        "refRates_5_revisionIndicator": ""
+    },
+    {
+        "refRates_5_type": "SOFR"
+    },
+    {
+        "refRates_5_volumeInBillions": 1736
+    }
+]

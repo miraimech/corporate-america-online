@@ -1,0 +1,20 @@
+[
+    {
+        "releases_210_press_release": false
+    },
+    {
+        "releases_210_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_210_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_211_id": 371
+    },
+    {
+        "releases_211_link": "https://www.richmondfed.org/research/national_economy/non_employment_index"
+    },
+    {
+        "releases_211_name": "Hornstein-Kudlyak-Lange Non-Employment Index"
+    }
+]

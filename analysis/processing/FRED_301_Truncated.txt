@@ -1,0 +1,5 @@
+[
+    {
+        "releases_301_notes": "SONIA is a measure of the rate at which interest is paid on sterling short-term wholesale funds in circumstances where credit, liquidity and other risks are minimal.\r\n\r\nOn each London business day, SONIA is measured as the trimmed mean, rounded to four decimal places, of interest rates paid on eligible sterling denominated deposit transactions. \r\n\r\nThe trimmed mean is calculated as the volume-weighted mean rate, based on the central 50 per cent of the volume-weighted distribution of rates."
+    }
+]

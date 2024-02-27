@@ -1,0 +1,20 @@
+[
+    {
+        "releases_245_press_release": false
+    },
+    {
+        "releases_245_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_245_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_246_id": 417
+    },
+    {
+        "releases_246_link": "https://atlasdata.dartmouth.edu/static/research_data_archive"
+    },
+    {
+        "releases_246_name": "Preventable Hospital Admissions"
+    }
+]

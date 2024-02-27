@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_10_security": "TIPS DUE IN > 2 YRS,BUT <= 6 YRS"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    },
+    {
+        "pd_marketshare_ytd_totals_11_dailyAvgVolInMillions": 4960.6
+    },
+    {
+        "pd_marketshare_ytd_totals_11_percentFifthQuintMktShare": "0.10"
+    },
+    {
+        "pd_marketshare_ytd_totals_11_percentFifthQuintRange": "<=0.05"
+    }
+]

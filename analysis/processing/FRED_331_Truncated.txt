@@ -1,0 +1,26 @@
+[
+    {
+        "releases_3_press_release": true
+    },
+    {
+        "releases_3_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_3_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_40_id": 92
+    },
+    {
+        "releases_40_name": "Selected Real Retail Sales Series"
+    },
+    {
+        "releases_40_press_release": false
+    },
+    {
+        "releases_40_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_40_realtime_start": "2024-02-26"
+    }
+]

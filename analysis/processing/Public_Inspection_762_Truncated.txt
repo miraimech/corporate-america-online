@@ -1,0 +1,20 @@
+[
+    {
+        "results_82_agencies_0_url": "https://www.federalregister.gov/agencies/federal-communications-commission"
+    },
+    {
+        "results_82_agency_names_0": "Federal Communications Commission"
+    },
+    {
+        "results_82_document_number": "2024-03958"
+    },
+    {
+        "results_82_editorial_note": null
+    },
+    {
+        "results_82_excerpts": null
+    },
+    {
+        "results_82_filed_at": "2024-02-26T08:45:00.000-05:00"
+    }
+]

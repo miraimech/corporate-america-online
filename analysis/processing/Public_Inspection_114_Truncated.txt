@@ -1,0 +1,17 @@
+[
+    {
+        "results_117_publication_date": "2024-02-27"
+    },
+    {
+        "results_117_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/404/001.txt"
+    },
+    {
+        "results_117_subject_1": "Hearings, Meetings, Proceedings, etc.:"
+    },
+    {
+        "results_117_subject_2": "Taxpayer Advocacy Panel Taxpayer Communications Project Committee"
+    },
+    {
+        "results_117_subject_3": null
+    }
+]

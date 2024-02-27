@@ -1,0 +1,17 @@
+[
+    {
+        "releases_302_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_302_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_303_id": 499
+    },
+    {
+        "releases_303_link": "https://sdw.ecb.europa.eu/browse.do?node=9689692"
+    },
+    {
+        "releases_303_name": "EONIA: Euro Interbank Offered Rate"
+    }
+]

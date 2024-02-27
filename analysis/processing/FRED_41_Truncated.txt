@@ -1,0 +1,26 @@
+[
+    {
+        "releases_12_press_release": true
+    },
+    {
+        "releases_12_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_12_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_130_id": 261
+    },
+    {
+        "releases_130_link": "https://jeremypiger.com/recession_probs/"
+    },
+    {
+        "releases_130_name": "U.S. Recession Probabilities"
+    },
+    {
+        "releases_130_press_release": true
+    },
+    {
+        "releases_130_realtime_end": "2024-02-26"
+    }
+]

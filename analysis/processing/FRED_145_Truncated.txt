@@ -1,0 +1,14 @@
+[
+    {
+        "releases_204_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_205_id": 365
+    },
+    {
+        "releases_205_link": "https://www.imf.org/en/Research/commodity-prices"
+    },
+    {
+        "releases_205_name": "Primary Commodity Prices"
+    }
+]

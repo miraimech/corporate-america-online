@@ -1,0 +1,14 @@
+[
+    {
+        "results_50_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/918.txt"
+    },
+    {
+        "results_50_subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:"
+    },
+    {
+        "results_50_subject_2": "Alton Post Office Solar, LLC"
+    },
+    {
+        "results_50_subject_3": null
+    }
+]

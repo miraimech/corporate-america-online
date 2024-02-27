@@ -1,0 +1,20 @@
+[
+    {
+        "results_66_document_number": "2024-03938"
+    },
+    {
+        "results_66_editorial_note": null
+    },
+    {
+        "results_66_excerpts": null
+    },
+    {
+        "results_66_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_66_filing_type": "regular"
+    },
+    {
+        "results_66_html_url": "https://www.federalregister.gov/public-inspection/2024-03938/agency-information-collection-activities-proposals-submissions-and-approvals-workforce-system"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_37_percentSecondQuintRange": "0.31 - 8.53"
+    },
+    {
+        "pd_marketshare_quarterly_totals_37_percentThirdQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_totals_37_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_totals_37_security": "CREDIT CARD-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_totals_37_securityType": "ASSET-BACKED SECURITIES"
+    }
+]

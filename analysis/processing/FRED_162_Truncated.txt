@@ -1,0 +1,8 @@
+[
+    {
+        "releases_214_link": "https://www.dallasfed.org/research/surveys/tmos.aspx"
+    },
+    {
+        "releases_214_name": "Texas Manufacturing Outlook Survey"
+    }
+]

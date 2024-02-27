@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_6_dailyAvgVolInMillions": 60046.8
+    },
+    {
+        "pd_marketshare_quarterly_others_6_percentFifthQuintMktShare": "1.55"
+    },
+    {
+        "pd_marketshare_quarterly_others_6_percentFifthQuintRange": "<=0.60"
+    },
+    {
+        "pd_marketshare_quarterly_others_6_percentFirstQuintMktShare": "52.72"
+    },
+    {
+        "pd_marketshare_quarterly_others_6_percentFirstQuintRange": ">=9.69"
+    }
+]

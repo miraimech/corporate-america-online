@@ -1,0 +1,17 @@
+[
+    {
+        "results_94_excerpts": null
+    },
+    {
+        "results_94_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_94_filing_type": "regular"
+    },
+    {
+        "results_94_html_url": "https://www.federalregister.gov/public-inspection/2024-03975/hearings-meetings-proceedings-etc-pennsylvania-advisory-committee"
+    },
+    {
+        "results_94_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03975"
+    }
+]

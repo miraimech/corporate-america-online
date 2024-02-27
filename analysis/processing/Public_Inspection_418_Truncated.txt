@@ -1,0 +1,17 @@
+[
+    {
+        "results_28_editorial_note": null
+    },
+    {
+        "results_28_excerpts": null
+    },
+    {
+        "results_28_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_28_filing_type": "regular"
+    },
+    {
+        "results_28_html_url": "https://www.federalregister.gov/public-inspection/2024-03894/air-quality-state-implementation-plans-approvals-and-promulgations-california-san-joaquin-valley-air"
+    }
+]

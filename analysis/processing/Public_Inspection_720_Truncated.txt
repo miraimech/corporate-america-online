@@ -1,0 +1,23 @@
+[
+    {
+        "results_76_agencies_0_raw_name": "Justice Department"
+    },
+    {
+        "results_76_agencies_0_slug": "justice-department"
+    },
+    {
+        "results_76_agencies_0_url": "https://www.federalregister.gov/agencies/justice-department"
+    },
+    {
+        "results_76_agency_names_0": "Justice Department"
+    },
+    {
+        "results_76_document_number": "2024-03950"
+    },
+    {
+        "results_76_editorial_note": null
+    },
+    {
+        "results_76_excerpts": null
+    }
+]

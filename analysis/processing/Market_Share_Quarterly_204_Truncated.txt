@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_33_percentSecondQuintRange": "2.10 - 7.69"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_percentThirdQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_security": "OBLIGATIONS DUE IN > 13 MNTHS, BUT <= 5 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_others_33_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    }
+]

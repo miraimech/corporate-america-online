@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_28_percentSecondQuintMktShare": "23.19"
+    },
+    {
+        "pd_marketshare_ytd_totals_28_percentSecondQuintRange": "2.34 - 6.34"
+    },
+    {
+        "pd_marketshare_ytd_totals_28_percentThirdQuintMktShare": "7.60"
+    },
+    {
+        "pd_marketshare_ytd_totals_28_percentThirdQuintRange": "1.19 - 2.01"
+    },
+    {
+        "pd_marketshare_ytd_totals_28_security": "DUE IN < 13 MNTHS"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "results_67_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_67_num_pages": 3
+    },
+    {
+        "results_67_page_views_count": 15
+    },
+    {
+        "results_67_page_views_last_updated": "2024-02-27 04:15:07 -0500"
+    },
+    {
+        "results_67_pdf_file_name": "2024-03941_PI.pdf"
+    },
+    {
+        "results_67_pdf_file_size": 107886
+    },
+    {
+        "results_67_pdf_updated_at": "2024-02-26T08:45:23.000-05:00"
+    }
+]

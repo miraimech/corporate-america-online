@@ -1,0 +1,26 @@
+[
+    {
+        "releases_59_press_release": false
+    },
+    {
+        "releases_59_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_59_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_5_id": 15
+    },
+    {
+        "releases_5_link": "http://www.federalreserve.gov/releases/g5/"
+    },
+    {
+        "releases_5_name": "G.5 Foreign Exchange Rates"
+    },
+    {
+        "releases_5_press_release": true
+    },
+    {
+        "releases_5_realtime_end": "2024-02-26"
+    }
+]

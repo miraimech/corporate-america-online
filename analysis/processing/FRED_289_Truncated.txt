@@ -1,0 +1,20 @@
+[
+    {
+        "releases_294_press_release": false
+    },
+    {
+        "releases_294_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_294_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_295_id": 486
+    },
+    {
+        "releases_295_link": "https://www.uspto.gov/web/offices/ac/ido/oeip/taf/reports_stco.htm"
+    },
+    {
+        "releases_295_name": "U.S. Granted Patents by States, Territories, and Countries"
+    }
+]

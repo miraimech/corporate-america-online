@@ -1,0 +1,5 @@
+[
+    {
+        "releases_305_notes": "The euro short-term rate (\u20acSTR) reflects the wholesale euro unsecured overnight borrowing costs of banks located in the euro area. The \u20acSTR is published on each TARGET2 business day based on transactions conducted and settled on the previous TARGET2 business day (the reporting date \u201cT\u201d) with a maturity date of T+1 which are deemed to have been executed at arm\u2019s length and thus reflect market rates in an unbiased way."
+    }
+]

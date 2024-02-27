@@ -1,0 +1,14 @@
+[
+    {
+        "results_104_excerpts": null
+    },
+    {
+        "results_104_filed_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_104_filing_type": "regular"
+    },
+    {
+        "results_104_html_url": "https://www.federalregister.gov/public-inspection/2024-03986/permits-applications-issuances-etc-endangered-and-threatened-species-take-of-anadromous-fish"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "results_30_title": "Superfund Tax on Chemical Substances: Request to Modify List of Taxable Substances; Notice of Filing for Iso-butanol "
+    },
+    {
+        "results_30_toc_doc": "Request to Modify List of Taxable Substances; Notice of Filing for Iso-butanol"
+    },
+    {
+        "results_30_toc_subject": "Superfund Tax on Chemical Substances:"
+    },
+    {
+        "results_30_type": "Notice"
+    },
+    {
+        "results_31_agencies_0_id": 466
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_18_percentFourthQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_18_percentSecondQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_18_percentSecondQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_18_percentThirdQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_18_percentThirdQuintRange": "0.00 - 0.00"
+    }
+]

@@ -1,0 +1,5 @@
+[
+    {
+        "releases_59_notes": "The Local Area Unemployment Statistics release include monthly and annual-average estimates of civilian labor force, employed people, unemployed people, and unemployment rates for different geographies. These data are based on the Current Population Survey (CPS), the household survey that is the source of the national unemployment rate. For more details, see the frequently asked questions here: https://www.bls.gov/lau/laufaq.htm."
+    }
+]

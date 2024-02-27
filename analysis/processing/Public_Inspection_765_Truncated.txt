@@ -1,0 +1,17 @@
+[
+    {
+        "results_82_publication_date": "2024-02-27"
+    },
+    {
+        "results_82_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/958.txt"
+    },
+    {
+        "results_82_subject_1": "Charter Amendments, Establishments, Renewals and Terminations:"
+    },
+    {
+        "results_82_subject_2": "Federal Advisory Committee Act; Communications Security, Reliability, and Interoperability Council"
+    },
+    {
+        "results_82_subject_3": null
+    }
+]

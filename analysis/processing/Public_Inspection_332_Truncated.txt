@@ -1,0 +1,20 @@
+[
+    {
+        "results_150_type": "Rule"
+    },
+    {
+        "results_15_agencies_0_id": 228
+    },
+    {
+        "results_15_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/228"
+    },
+    {
+        "results_15_agencies_0_name": "Housing and Urban Development Department"
+    },
+    {
+        "results_15_agencies_0_parent_id": null
+    },
+    {
+        "results_15_agencies_0_raw_name": "Housing and Urban Development Department"
+    }
+]

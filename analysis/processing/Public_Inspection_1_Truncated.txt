@@ -1,0 +1,23 @@
+[
+    {
+        "count": 151
+    },
+    {
+        "regular_filings_updated_at": "2024-02-26T08:45:00.000-05:00"
+    },
+    {
+        "results_0_agencies_0_id": 241
+    },
+    {
+        "results_0_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/241"
+    },
+    {
+        "results_0_agencies_0_name": "Industry and Security Bureau"
+    },
+    {
+        "results_0_agencies_0_parent_id": 54
+    },
+    {
+        "results_0_agencies_0_raw_name": "Industry and Security Bureau"
+    }
+]

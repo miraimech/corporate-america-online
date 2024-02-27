@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_others_30_percentSecondQuintRange": "2.05 - 8.27"
+    },
+    {
+        "pd_marketshare_quarterly_others_30_percentThirdQuintMktShare": "6.12"
+    },
+    {
+        "pd_marketshare_quarterly_others_30_percentThirdQuintRange": "0.51 - 2.04"
+    },
+    {
+        "pd_marketshare_quarterly_others_30_security": "DUE IN > 5 YRS, BUT <= 10 YRS"
+    }
+]

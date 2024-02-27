@@ -1,0 +1,20 @@
+[
+    {
+        "results_84_pdf_url": "https://public-inspection.federalregister.gov/2024-03961.pdf"
+    },
+    {
+        "results_84_publication_date": "2024-02-27"
+    },
+    {
+        "results_84_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/961.txt"
+    },
+    {
+        "results_84_subject_1": "Patent Extension Regulatory Review Period:"
+    },
+    {
+        "results_84_subject_2": "Rybrevant"
+    },
+    {
+        "results_84_subject_3": null
+    }
+]

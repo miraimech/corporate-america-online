@@ -1,0 +1,17 @@
+[
+    {
+        "results_72_subject_1": "Applications for New Awards:"
+    },
+    {
+        "results_72_subject_2": "Alaska Native and Native Hawaiian-Serving Institutions Program, Part A"
+    },
+    {
+        "results_72_subject_3": null
+    },
+    {
+        "results_72_title": "Applications for New Awards: Alaska Native and Native Hawaiian-Serving Institutions Program, Part A "
+    },
+    {
+        "results_72_toc_doc": "Alaska Native and Native Hawaiian-Serving Institutions Program, Part A"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "releases_292_press_release": true
+    },
+    {
+        "releases_292_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_292_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_293_id": 484
+    },
+    {
+        "releases_293_link": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
+    },
+    {
+        "releases_293_name": "Key ECB Interest Rates"
+    },
+    {
+        "releases_293_press_release": true
+    }
+]

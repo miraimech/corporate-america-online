@@ -1,0 +1,20 @@
+[
+    {
+        "results_94_agencies_0_raw_name": "CIVIL RIGHTS COMMISSION"
+    },
+    {
+        "results_94_agencies_0_slug": "civil-rights-commission"
+    },
+    {
+        "results_94_agencies_0_url": "https://www.federalregister.gov/agencies/civil-rights-commission"
+    },
+    {
+        "results_94_agency_names_0": "Civil Rights Commission"
+    },
+    {
+        "results_94_document_number": "2024-03975"
+    },
+    {
+        "results_94_editorial_note": null
+    }
+]

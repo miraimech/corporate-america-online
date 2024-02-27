@@ -1,0 +1,17 @@
+[
+    {
+        "results_23_agencies_0_raw_name": "Centers for Disease Control and Prevention"
+    },
+    {
+        "results_23_agencies_0_slug": "centers-for-disease-control-and-prevention"
+    },
+    {
+        "results_23_agencies_0_url": "https://www.federalregister.gov/agencies/centers-for-disease-control-and-prevention"
+    },
+    {
+        "results_23_agency_names_0": "Centers for Disease Control and Prevention"
+    },
+    {
+        "results_23_document_number": "2024-03889"
+    }
+]

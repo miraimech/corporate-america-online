@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentSecondQuintRange": "3.63 - 7.58"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentThirdQuintMktShare": "10.36"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentThirdQuintRange": "1.31 - 2.63"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_security": "COUPONS"
+    }
+]

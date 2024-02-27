@@ -1,0 +1,23 @@
+[
+    {
+        "results_29_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/896.txt"
+    },
+    {
+        "results_29_subject_1": "Privacy Act; Systems of Records"
+    },
+    {
+        "results_29_subject_2": null
+    },
+    {
+        "results_29_subject_3": null
+    },
+    {
+        "results_29_title": "Privacy Act; Systems of Records  "
+    },
+    {
+        "results_29_toc_doc": "Privacy Act; Systems of Records"
+    },
+    {
+        "results_29_toc_subject": ""
+    }
+]

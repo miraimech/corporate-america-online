@@ -1,0 +1,5 @@
+[
+    {
+        "releases_307_notes": "AMERIBOR\u00ae (American Interbank Offered Rate) is a transparent benchmark interest rate based on overnight unsecured loans transacted on the American Financial Exchange (AFX). AMERIBOR\u00ae reflects the actual borrowing costs of thousands of small, medium, and regional banks across America. AMERIBOR\u00ae is also useful for larger banks and financial institutions that do business with these banks, as well as small and middle market companies."
+    }
+]

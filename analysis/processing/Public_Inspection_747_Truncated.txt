@@ -1,0 +1,17 @@
+[
+    {
+        "results_7_publication_date": "2024-02-27"
+    },
+    {
+        "results_7_raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/403/786.txt"
+    },
+    {
+        "results_7_subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:"
+    },
+    {
+        "results_7_subject_2": "Generic Clearance to Conduct Pre-Testing of Surveys"
+    },
+    {
+        "results_7_subject_3": null
+    }
+]

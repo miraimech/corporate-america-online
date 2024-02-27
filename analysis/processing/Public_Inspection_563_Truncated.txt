@@ -1,0 +1,17 @@
+[
+    {
+        "results_50_html_url": "https://www.federalregister.gov/public-inspection/2024-03918/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-alton"
+    },
+    {
+        "results_50_json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2024-03918"
+    },
+    {
+        "results_50_last_public_inspection_issue": "2024-02-26"
+    },
+    {
+        "results_50_num_pages": 3
+    },
+    {
+        "results_50_page_views_count": 1
+    }
+]

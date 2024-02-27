@@ -1,0 +1,17 @@
+[
+    {
+        "releases_240_press_release": false
+    },
+    {
+        "releases_240_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_240_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_241_id": 412
+    },
+    {
+        "releases_241_name": "Single Parent Households with Children"
+    }
+]

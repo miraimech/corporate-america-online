@@ -1,0 +1,20 @@
+[
+    {
+        "releases_270_press_release": true
+    },
+    {
+        "releases_270_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_270_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_271_id": 456
+    },
+    {
+        "releases_271_link": "http://www.hamiltonproject.org/assets/files/Sahm_web_20190506.pdf"
+    },
+    {
+        "releases_271_name": "Sahm Rule Recession Indicator"
+    }
+]

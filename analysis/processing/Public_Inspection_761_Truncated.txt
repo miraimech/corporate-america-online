@@ -1,0 +1,20 @@
+[
+    {
+        "results_82_agencies_0_id": 161
+    },
+    {
+        "results_82_agencies_0_json_url": "https://www.federalregister.gov/api/v1/agencies/161"
+    },
+    {
+        "results_82_agencies_0_name": "Federal Communications Commission"
+    },
+    {
+        "results_82_agencies_0_parent_id": null
+    },
+    {
+        "results_82_agencies_0_raw_name": "FEDERAL COMMUNICATIONS COMMISSION"
+    },
+    {
+        "results_82_agencies_0_slug": "federal-communications-commission"
+    }
+]

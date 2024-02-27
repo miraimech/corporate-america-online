@@ -1,0 +1,20 @@
+[
+    {
+        "releases_285_press_release": true
+    },
+    {
+        "releases_285_realtime_end": "2024-02-26"
+    },
+    {
+        "releases_285_realtime_start": "2024-02-26"
+    },
+    {
+        "releases_286_id": 477
+    },
+    {
+        "releases_286_link": "https://www.census.gov/retail/state_retail_sales.html"
+    },
+    {
+        "releases_286_name": "Monthly State Retail Sales"
+    }
+]
