@@ -1,5 +1,0 @@
-[
-    {
-        "releases_294_notes": "Utility patents are patents for invention. Patent origin is determined by the residence of the first-named inventor.\r\n\r\nFor more information on patent types, see https://www.uspto.gov/patents/basics/types-patent-applications.\r\n\r\nFor more information on CBSA data, see https://www.uspto.gov/web/offices/ac/ido/oeip/taf/cls_cbsa/explan_cls_cbsa.htm.\r\n\r\nFor more information on county data, see https://www.uspto.gov/web/offices/ac/ido/oeip/taf/countyall/explan_countyall.htm."
-    }
-]

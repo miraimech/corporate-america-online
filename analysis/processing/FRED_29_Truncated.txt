@@ -1,8 +1,0 @@
-[
-    {
-        "releases_121_notes": "The World Economic Outlook (WEO) database is created during the biannual WEO exercise, which begins in January and June of each year and results in the April and September WEO publication. Selected series from the publication are available in a database format.\r\n\r\nSee also, the World Economic Outlook Reports (http://www.imf.org/external/ns/cs.aspx?id=29)."
-    },
-    {
-        "releases_121_press_release": false
-    }
-]

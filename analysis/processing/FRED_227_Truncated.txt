@@ -1,5 +1,0 @@
-[
-    {
-        "releases_253_notes": "Premature crude death rate is the number of deaths where the deceased is younger than 75 years of age, divided by the population, then multiplied by 100,000. 75 years of age is the standard consideration of a premature death according to the CDC's definition of Years of Potential Life Loss. \r\n\r\nFor more information, see FAQs about death rates:\r\nhttps://wonder.cdc.gov/wonder/help/cmf.html#Frequently%20Asked%20Questions%20about%20Death%20Rates"
-    }
-]

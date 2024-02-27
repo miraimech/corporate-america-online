@@ -1,5 +1,0 @@
-[
-    {
-        "releases_140_name": "University of Louisville and Oklahoma State University: LoDI National Index"
-    }
-]

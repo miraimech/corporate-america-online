@@ -1,8 +1,0 @@
-[
-    {
-        "results_85_title": "Complaint: 20230930-DK-BUTTERFLY-1, Inc. F/K/A Bed Bath and Beyond Inc., Complainant v. Evergreen Line Joint Service Agreement (FMC #011982) Consisting of Evergreen Marine Corp. (Taiwan) Ltd.; et al. "
-    },
-    {
-        "results_85_toc_doc": "20230930-DK-BUTTERFLY-1, Inc. F/K/A Bed Bath and Beyond Inc., Complainant v. Evergreen Line Joint Service Agreement (FMC #011982) Consisting of Evergreen Marine Corp. (Taiwan) Ltd.; et al."
-    }
-]

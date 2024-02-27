@@ -1,8 +1,0 @@
-[
-    {
-        "releases_225_link": "https://fraser.stlouisfed.org/title/38"
-    },
-    {
-        "releases_225_name": "Banking and Monetary Statistics, 1914-1941"
-    }
-]

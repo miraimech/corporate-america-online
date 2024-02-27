@@ -1,5 +1,0 @@
-[
-    {
-        "releases_199_notes": "This release comes from the US Census Bureau's Foreign Trade Division. This data set contains state-level export data from the 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands to their international export partner countries. Each annual dataset displays the number of exporters between each state-country pair and the known value of exports from a state to a country in U.S. dollars."
-    }
-]

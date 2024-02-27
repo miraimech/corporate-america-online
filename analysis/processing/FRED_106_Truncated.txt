@@ -1,8 +1,0 @@
-[
-    {
-        "releases_181_link": "http://www.bls.gov/cps/earnings.htm"
-    },
-    {
-        "releases_181_name": "Weekly and Hourly Earnings from the Current Population Survey"
-    }
-]

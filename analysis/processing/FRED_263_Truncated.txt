@@ -1,5 +1,0 @@
-[
-    {
-        "releases_279_notes": "The Business Formation Statistics (BFS) are an experimental data product of the U.S. Census Bureau developed in research collaboration with economists affiliated with Board of Governors of the Federal Reserve System, Federal Reserve Bank of Atlanta, University of Maryland, and University of Notre Dame. The BFS provide timely and high frequency information on new business applications and formations in the United States.\r\n\r\nThe BFS data cover Employer Identification Number (EIN) applications made in the United States, including those associated with starting a new employer business. EINs are IDs used by business entities for tax purposes. Data are available as both nationwide and individual states' statistics. \r\n\r\nThe Business Application Series contain 4 filtered series of EIN applications, measuring selected groupings based on a variety of factors: business applications, high-propensity business applications, business applications with planned wages, and business applications from corporations."
-    }
-]

@@ -3,10 +3,10 @@ import os
 import logging
 import hashlib
 
-PROJECT_PATH = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-PROCESSING_PATH = os.path.join(PROJECT_PATH, 'analysis', 'processing')
-HASHES_PATH = os.path.join(PROJECT_PATH, 'analysis', 'hashes')
-LOGS_PATH = os.path.join(PROJECT_PATH, 'logs')
+LOCAL_PATH = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+PROCESSING_PATH = os.path.join(LOCAL_PATH, 'analysis', 'processing')
+HASHES_PATH = os.path.join(LOCAL_PATH, 'analysis', 'hashes')
+LOGS_PATH = os.path.join(LOCAL_PATH, 'logs')
 
 if not os.path.exists(PROCESSING_PATH):
     os.makedirs(PROCESSING_PATH)

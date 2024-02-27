@@ -1,8 +1,0 @@
-[
-    {
-        "releases_281_link": "https://worlduncertaintyindex.com/data/"
-    },
-    {
-        "releases_281_name": "World Uncertainty Index"
-    }
-]

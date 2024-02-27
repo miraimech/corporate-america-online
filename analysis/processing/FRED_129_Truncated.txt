@@ -1,5 +1,0 @@
-[
-    {
-        "releases_193_notes": "The Nonmanufacturing Business Outlook Survey is a monthly survey of nonmanufacturers in the Third Federal Reserve District. Participants indicate the direction of change in overall business activity and in the various measures of activity at their firms, including new orders, sales or revenues, employment, prices, and capital expenditures. Respondents also provide their assessment of general business conditions over the next six months. The survey has been conducted each month since March 2011."
-    }
-]

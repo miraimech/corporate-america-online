@@ -1,8 +1,0 @@
-[
-    {
-        "releases_225_notes": "Contains banking and monetary statistics previously appearing in the Annual Reports of the Board of Governors of the Federal Reserve and the Federal Reserve Bulletin. Includes data on the condition and operation of all banks as well as statistics on non-bank financial institutions, currency, money rates, securities, consumer credit, gold, and international financial developments."
-    },
-    {
-        "releases_225_press_release": false
-    }
-]

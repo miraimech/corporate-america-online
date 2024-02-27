@@ -1,8 +1,0 @@
-[
-    {
-        "releases_184_notes": "These selected series have been rebased and are presented at a quarterly frequency and updated on a quarterly basis; where the frequency of the series collected is monthly, the quarterly data are calculated as the average of the monthly observations. In addition to the nominal price series, and their growth rates, the data set includes CPI-deflated versions of the series (and their growth rates)."
-    },
-    {
-        "releases_184_press_release": false
-    }
-]

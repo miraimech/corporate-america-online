@@ -1,8 +1,0 @@
-[
-    {
-        "releases_272_link": "https://www.nber.org/chapters/c1569.pdf"
-    },
-    {
-        "releases_272_name": "Cotton Production in New England"
-    }
-]

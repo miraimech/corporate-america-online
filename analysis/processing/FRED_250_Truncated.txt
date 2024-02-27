@@ -1,5 +1,0 @@
-[
-    {
-        "releases_270_notes": "The Quarterly Summary of State and Local Government Tax Revenue provides quarterly estimates of state and local government tax revenue at a national level, as well as detailed tax revenue data for individual states. This quarterly survey has been conducted continuously since 1962. The information contained in this survey is the most current information available on a nationwide basis for government tax collections. \r\n\r\nFor more information about the survey, visit here: https://www.census.gov/programs-surveys/qtax/about.html\r\n\r\nA Special Note Concerning Revised Data:\r\nRevisions reflect tax collection amounts obtained from three general sources. State and local government respondents have submitted revisions to amounts as originally reported. In other cases, governments have reported data, which we used to replace data that were previously imputed or estimated. Finally, some of the revisions were compiled from government sources, both published and unpublished. For more information, see the survey's methodology here: https://www.census.gov/programs-surveys/qtax/technical-documentation/methodology.html"
-    }
-]

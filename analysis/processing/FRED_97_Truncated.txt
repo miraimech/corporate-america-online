@@ -1,8 +1,0 @@
-[
-    {
-        "releases_174_notes": "All series on credit to the non-financial sector cover 40 economies, both advanced and emerging. They capture the outstanding amount of credit at the end of the reference quarter. Credit is provided by domestic banks, all other sectors of the economy and non-residents. In terms of financial instruments, credit covers the core debt, defined as loans, debt securities and currency & deposits."
-    },
-    {
-        "releases_174_press_release": false
-    }
-]

@@ -1,5 +1,0 @@
-[
-    {
-        "releases_214_notes": "The Texas Manufacturing Outlook Survey (TMOS) is a monthly survey of area manufacturers. Firm executives report on how business conditions have changed for a number of indicators, such as production, new orders, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business."
-    }
-]

@@ -1,5 +1,0 @@
-[
-    {
-        "releases_152_name": "Monthly Wholesale Trade: Sales and Inventories"
-    }
-]

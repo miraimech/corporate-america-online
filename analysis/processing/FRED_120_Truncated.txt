@@ -1,5 +1,0 @@
-[
-    {
-        "releases_189_name": "Research Consumer Price Index"
-    }
-]

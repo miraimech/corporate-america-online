@@ -1,5 +1,0 @@
-[
-    {
-        "releases_152_notes": "The Census Bureau conducts the Monthly Wholesale Trade Survey (MWTS) to provide national estimates of monthly sales, end-of-month inventories, and inventories-to-sales ratios by kind of business for wholesale firms located in the United States. Specifically, the MWTS covers wholesale merchants who sell goods on their own account and include such businesses as wholesale merchants or jobbers, industrial distributors, exporters, and importers. Sales offices and branches maintained by manufacturing, refining, or mining firms for the purpose of marketing their products are not covered in this report. Also excluded is NAICS Industry Group 4251: Wholesale Electronic Markets and Agents and Brokers. (Description of the survey as provided by the Census, http://www2.census.gov/wholesale/pdf/mwts/currentwhl.pdf)"
-    }
-]

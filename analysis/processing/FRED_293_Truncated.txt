@@ -1,5 +1,0 @@
-[
-    {
-        "releases_297_notes": "The Brave-Butters-Kelley Indexes (BBKI) are the byproduct of research originally conducted by the Federal Reserve Bank of Chicago. Currently, the BBKI are maintained and produced by the Indiana Business Research Center at the Kelley School of Business at Indiana University. The BBK Coincident and Leading Indexes and Monthly GDP Growth for the U.S. are constructed from a collapsed dynamic factor analysis of a panel of 490 monthly measures of real economic activity and quarterly real GDP growth."
-    }
-]

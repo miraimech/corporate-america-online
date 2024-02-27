@@ -1,5 +1,0 @@
-[
-    {
-        "releases_255_notes": "Age-adjusted death rates are weighted averages of the age-specific death rates, where the weights represent a fixed population by age. They are used to compare relative mortality risk among groups and over time. An age-adjusted rate represents the rate that would have existed had the age-specific rates of the particular year prevailed in a population whose age distribution was the same as that of the fixed population. Age-adjusted rates should be viewed as relative indexes rather than as direct or actual measures of mortality risk. \r\n\r\nPremature death rate is the number of deaths where the deceased is younger than 75 years of age, divided by the population, then multiplied by 100,000. 75 years of age is the standard consideration of a premature death according to the CDC's definition of Years of Potential Life Loss.\r\n\r\nFor more information, see FAQs about death rates:\r\nhttps://wonder.cdc.gov/wonder/help/cmf.html#Frequently%20Asked%20Questions%20about%20Death%20Rates"
-    }
-]

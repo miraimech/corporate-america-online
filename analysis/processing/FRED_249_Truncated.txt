@@ -1,8 +1,0 @@
-[
-    {
-        "releases_270_link": "https://www.census.gov/programs-surveys/qtax.html"
-    },
-    {
-        "releases_270_name": "Quarterly Summary of State & Local Tax Revenue"
-    }
-]

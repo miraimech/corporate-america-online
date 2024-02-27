@@ -1,5 +1,0 @@
-[
-    {
-        "releases_268_notes": "The Distributional Financial Accounts (DFAs) provide a quarterly measure of the distribution of U.S. household wealth since 1989, based on a comprehensive integration of disaggregated household-level wealth data with official aggregate wealth measures. The data set contains the level and share of each balance sheet item on the Financial Accounts' household wealth table (Table B.101.h), for each of four percentile groups of wealth: the top 1 percent, the next 9 percent (i.e., 90th to 99th percentile), the next 40 percent (50th to 90th percentile), and the bottom half (below the 50th percentile). The quarterly frequency makes the data useful for studying the business cycle dynamics of wealth concentration--which are typically difficult to observe in lower-frequency data because peaks and troughs often fall between times of measurement. These data will be updated about 10 or 11 weeks after the end of each quarter, making them a timely measure of the distribution of wealth."
-    }
-]

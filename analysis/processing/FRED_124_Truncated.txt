@@ -1,5 +1,0 @@
-[
-    {
-        "releases_190_notes": "Small Area Income and Poverty Estimates (SAIPE) are produced for school districts, counties, and states. The main objective of this program is to provide updated estimates of income and poverty statistics for the administration of federal programs and the allocation of federal funds to local jurisdictions. These estimates combine data from administrative records, postcensal population estimates, and the decennial census with direct estimates from the American Community Survey to provide consistent and reliable single-year estimates. These model-based single-year estimates are more reflective of current conditions than multi-year survey estimates."
-    }
-]

@@ -1,5 +1,0 @@
-[
-    {
-        "releases_208_notes": "The IMF\u2019s Middle East and Central Asia Department (MCD) countries and territories comprise Afghanistan, Algeria, Armenia, Azerbaijan, Bahrain, Djibouti, Egypt, Georgia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, the Kyrgyz Republic, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Tunisia, Turkmenistan, the United Arab Emirates, Uzbekistan, the West Bank and Gaza, and Yemen.\r\n\r\nMore information about forecasting methodology is available at http://data.imf.org/?sk=4CC54C86-F659-4B16-ABF5-FAB77D52D2E6&ss=1390288795525.\r\n\r\nThe base year for constant prices differs by nation. More information is available at https://www.imf.org/external/pubs/ft/weo/2015/02/weodata/co.pdf."
-    }
-]

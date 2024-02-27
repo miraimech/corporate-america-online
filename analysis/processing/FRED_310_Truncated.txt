@@ -1,8 +1,0 @@
-[
-    {
-        "releases_307_link": "https://ameribor.net/"
-    },
-    {
-        "releases_307_name": "Historical Overnight AMERIBOR Unsecured Interest Rate"
-    }
-]
