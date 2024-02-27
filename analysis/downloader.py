@@ -10,6 +10,8 @@ PROCESSING_PATH = os.path.join(LOCAL_PATH, 'analysis', 'processing')
 HASH_PATH = os.path.join(LOCAL_PATH, 'analysis', 'hashes')
 LOG_PATH = os.path.join(LOCAL_PATH, 'analysis', 'logs')
 
+if not os.path.exists(PROCESSING_PATH):
+    os.makedirs(PROCESSING_PATH)
 if not os.path.exists(HASH_PATH):
     os.makedirs(HASH_PATH)
 if not os.path.exists(LOG_PATH):
