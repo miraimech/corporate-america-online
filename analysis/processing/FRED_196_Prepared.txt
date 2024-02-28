@@ -1,0 +1,1 @@
+This release contains regional data for States, Metropolitan Portion of States, Nonmetropolitan Portion of States, and Metropolitan Areas. The indicators in this data release include Real Personal Income, Real Per Capita Personal Income, Regional Price Parities, and Implicit Price Deflator.

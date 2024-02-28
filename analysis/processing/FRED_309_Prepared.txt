@@ -1,0 +1,1 @@
+One of Zillow’s most cited metrics is ZHVI, the Zillow Home Value Index. It tells us the typical home value in a given geography (metro area, city, ZIP code, etc. ), now and over time.

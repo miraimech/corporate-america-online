@@ -1,0 +1,8 @@
+{
+    "base_name": "FRED_42",
+    "url": "https://banks.data.fdic.gov/explore/failures?aggReport=detail&displayFields=NAME%2CCERT%2CFIN%2CCITYST%2CFAILDATE%2CSAVR%2CRESTYPE%2CCOST%2CRESTYPE1%2CCHCLASS1%2CQBFDEP%2CQBFASSET&endFailYear=2021&sortField=FAILDATE&sortOrder=desc&startFailYear=2012",
+    "headline": null,
+    "summary": null,
+    "date": "February 26, 2024",
+    "copyright": null
+}

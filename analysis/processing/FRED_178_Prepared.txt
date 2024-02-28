@@ -1,0 +1,1 @@
+The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. The Federal Reserve Bank of Atlanta's GDPNow forecasting model provides a "nowcast" of the official estimate prior to its release.

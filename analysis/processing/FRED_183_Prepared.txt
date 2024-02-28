@@ -1,0 +1,1 @@
+Release contains both per capita personal consumption expenditures and personal consumption expenditures by state. This data set also contains sector based data each state.

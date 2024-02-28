@@ -1,0 +1,1 @@
+This index measures the probability that the U. economy was in a recession during the indicated quarter. It is based on a mathematical description of the way that recessions differ from expansions.

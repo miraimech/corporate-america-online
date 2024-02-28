@@ -1,0 +1,1 @@
+The Underlying Inflation Gauge is a monthly estimate of trend inflation released by the Federal Reserve Bank of New York. There are two measures of trend inflation constructed from a dynamic factor model of the consumer price index series and several macroeconomic and financial variables. For more information, see the following link:.

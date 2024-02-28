@@ -1,0 +1,1 @@
+The CFSI is a coincident indicator of systemic stress, where a high value of CFSI indicates high systemic financial stress. Units of CFSI are expressed as standardized differences from the mean (z-scores). The CFSI tracks stress in six types of markets: credit markets, equity markets, foreign exchange markets, funding markets, real estate markets, and securitization markets.
